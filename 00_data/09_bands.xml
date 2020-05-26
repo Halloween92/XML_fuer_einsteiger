@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<collection>
+  <artist>
+    <name>Robbie Williams</name>
+    <cds>
+      <cd>Rudebox</cd>
+      <cd>Swing when you're winning</cd>
+    </cds>
+  </artist>
+  <band>
+    <name>Juli</name>
+    <cds>
+      <cd>Ein neuer Tag</cd>
+    </cds>
+  </band>
+  <band>
+    <name>Silbermond</name>
+    <cds>
+      <cd>Verschwende deine Zeit</cd>
+      <cd>Laut gedacht</cd>
+      <cd>Nichts passiert</cd>
+      <cd>Himmel auf</cd>
+    </cds>
+  </band>
+  <artist>
+    <name>Michael Jackson</name>
+    <cds>
+      <cd>Bad</cd>
+      <cd>Thriller</cd>
+      <cd>Dangerous</cd>
+    </cds>
+  </artist>
+</collection>

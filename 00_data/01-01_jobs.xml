@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<jobs>
+    <day date="18.5.2020">
+        <job priority="critical" name="Müll rausbringen"/>
+        <job priority="low" name="Möbel säubern"/>
+        <job priority="low" name="Teppich reinigen"/>
+    </day>
+    <day date="19.5.2020">
+        <job priority="medium" name="Fenster putzen"/>
+        <job priority="high" name="Pflanzen gießen"/>
+    </day>
+</jobs>

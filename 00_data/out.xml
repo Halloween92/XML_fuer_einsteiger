@@ -1,0 +1,2472 @@
+<all_recipes><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.63</ratingValue>
+		<reviewCount type="int">6</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">annewi</name>
+	</author>
+	<datePublished type="str">2012-02-27</datePublished>
+	<description type="str">Papaya-Porree-Sellerie Salat - ungew&#246;hnlich, aber sehr lecker. &#220;ber 6 Bewertungen und f&#252;r super befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">papaya-porree-sellerie_salat.jpg</image>
+	<keywords type="list">
+		<item type="str">Salat</item>
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Vorspeise</item>
+		<item type="str">kalt</item>
+		<item type="str">Vegetarisch</item>
+		<item type="str">Schnell</item>
+		<item type="str">einfach</item>
+		<item type="str">kalorienarm</item>
+		<item type="str">Vegan</item>
+		<item type="str">Fr&#252;chte</item>
+	</keywords>
+	<name type="str">Papaya-Porree-Sellerie Salat</name>
+	<prepTime type="str">P0DT0H20M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Kalorienarm</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">1  Papaya , reif, am besten eine Flug-Papaya, ca. 700 g schwer</item>
+		<item type="str">300 g Porree (Lauch), ca.</item>
+		<item type="str">350 g Staudensellerie , ca.</item>
+		<item type="str">6 EL Zitronensaft oder Limettensaft</item>
+		<item type="str">1 EL Ahornsirup oder Cranbeeriesirup</item>
+		<item type="str">2 EL Raps&#246;l</item>
+		<item type="str"> Salz</item>
+		<item type="str"> Pfeffer , frisch gemahlener</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Die Papaya sch&#228;len, die Kerne entfernen und auf K&#252;chenpapier legen (werden sp&#228;ter noch gebraucht). Auch das Innere weiche der Papaya entfernen. Dann die Papaya in kleine W&#252;rfel schneiden. In eine gro&#223;e Sch&#252;ssel geben. 
+
+Den Porree putzen, in feine ca. 2 mm breite Ringe schneiden. Porreeringe mit hei&#223;em Wasser &#252;berbr&#252;hen, umr&#252;hren und sofort zum Abtropfen in ein Sieb geben. Die zusammenh&#228;ngenden wei&#223;en Ringe etwas auseinander dr&#252;cken, sodass man einzelne wei&#223;e Ringe hat. 
+
+Stangensellerie putzen, evtl. F&#228;den entfernen, auch in feine Scheiben schneiden. Beide Gem&#252;sesorten zur Papaya geben. 
+
+Aus Zitronen-/Limettensaft, Sirup, Salz, frisch gemahlenem Pfeffer und Raps&#246;l eine Marinade r&#252;hren und &#252;ber den Salat geben. Vorsichtig mischen und ca. 15 Min. ziehen lassen.
+
+Zum Schluss, wenn man m&#246;chte, noch mit den aufbewahrten Kernen der Papaya bestreuen. Sie haben einen leicht pfeffrigen Geschmack. Der Salat sollte bald verzehrt werden. Bei l&#228;ngerem Stehen wird der Porree grau.</recipeInstructions>
+	<recipeYield type="str">4 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Chefkoch_Heidi</name>
+			</author>
+			<datePublished type="str">2015-07-14</datePublished>
+			<reviewBody type="str">Was lange w&#228;hrt, wird endlich gut ;). Dein Kommentar wurde erst heute bemerkt und wir haben das korrigiert.
+
+LG
+Heidi_ck
+Chefkoch.de, Team Rezeptredaktion</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">annewi</name>
+			</author>
+			<datePublished type="str">2012-07-01</datePublished>
+			<reviewBody type="str">Hallo,
+
+ein wenig bin ich dar&#252;ber ver&#228;rgert, dass die Rezepte nicht so &#252;bernommen werden, wie man sie geschrieben hat. 
+Eine Stange Staudensellerie ist nat&#252;rlich zu wenig. Man hat die Menge von
+ca.350 g vergessen , mit zu schreiben.
+
+LG  Annemarie</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">eifelfanw</name>
+			</author>
+			<datePublished type="str">2012-02-28</datePublished>
+			<reviewBody type="str">Huhu meine Liebe 
+So sieht man sich .......grins 
+
+ich habe Dein Rezept  Probiert , mir hat es sehr gut geschmeckt
+und mein Enkel wollte gleich Nach Schlag haben .
+
+LG Eifelfan
+   </reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H35M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">4.0</ratingValue>
+		<reviewCount type="int">9</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">MissDynamite</name>
+	</author>
+	<datePublished type="str">2010-10-04</datePublished>
+	<description type="str">Schnitzel Mail&#228;nder Art - &#252;berbackene Schnitzel mit Spaghetti und einer Tomatensauce. &#220;ber 9 Bewertungen und f&#252;r beliebt befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">schnitzel_mail&#228;nder_art.jpg</image>
+	<keywords type="list">
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Hauptspeise</item>
+		<item type="str">Nudeln</item>
+		<item type="str">Schwein</item>
+		<item type="str">Braten</item>
+	</keywords>
+	<name type="str">Schnitzel Mail&#228;nder Art</name>
+	<prepTime type="str">P0DT0H20M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Gem&#252;se</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">4 d&#252;nne Schweineschnitzel</item>
+		<item type="str">4 Scheibe/n K&#228;se (Gouda)</item>
+		<item type="str">4 EL Sauce Hollandaise</item>
+		<item type="str">250 g Spaghetti</item>
+		<item type="str">2 Dose/n Tomate(n) , gesch&#228;lt</item>
+		<item type="str">1  Knoblauchzehe(n)</item>
+		<item type="str"> Oregano</item>
+		<item type="str"> Salz und Pfeffer</item>
+		<item type="str"> Zucker</item>
+		<item type="str">1  Zwiebel(n)</item>
+		<item type="str">etwas Tomatenmark</item>
+		<item type="str"> Paniermehl</item>
+		<item type="str">2  Ei(er)</item>
+		<item type="str"> Margarine</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Knoblauch und Zwiebeln klein schneiden und in etwas Oliven&#246;l anbraten. Dosentomaten klein schneiden und mit dem Saft dazu geben. Etwas Tomatenmark und bei Bedarf noch etwas Wasser hinzugeben und mit Salz und Pfeffer und einer Prise Zucker w&#252;rzen. 2 Stunden leise bei schwacher Hitze k&#246;cheln lassen, danach noch einmal mit Salz, Pfeffer und Oregano abschmecken. 
+
+Spaghetti in Salzwasser kochen.
+
+Die Schnitzel salzen, pfeffern und mit Ei und Paniermehl panieren. In reichlich Margarine braten. Wenn sie knusprig und gar sind, einen Essl&#246;ffel der Sauce Hollandaise auf jedes Schnitzel geben und eine Scheibe Goudak&#228;se dar&#252;ber legen. Den K&#228;se etwas schmelzen lassen, danach die Schnitzel auf den Spaghetti mit der Tomatensauce servieren.</recipeInstructions>
+	<recipeYield type="str">2 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">MissDynamite</name>
+			</author>
+			<datePublished type="str">2012-02-14</datePublished>
+			<reviewBody type="str">Und danke f&#252;r die tollen Bilder. :)</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">MissDynamite</name>
+			</author>
+			<datePublished type="str">2011-11-30</datePublished>
+			<reviewBody type="str">Dankesch&#246;n. Freut mich, dass es dir geschmeckt hat. :)</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">garten-gerd</name>
+			</author>
+			<datePublished type="str">2011-11-30</datePublished>
+			<reviewBody type="str">Hallo, MissDynamite ! 
+
+Deine Mail&#228;nder Schnitzel haben mir wirklich sehr gut geschmeckt. 
+Und sie sind dabei noch einfach zuzubereiten. Geschmacklich pa&#223;t auch alles sehr gut zusammen. Da gibt&#180;s nix zu meckern. 
+Fotos zu deinem Rezept sind auch bereits unterwegs. 
+
+Vielen Dank daf&#252;r und liebe Gr&#252;&#223;e, 
+
+Gerd</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H20M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Madlin64</name>
+	</author>
+	<cookTime type="str">P0DT0H30M</cookTime>
+	<datePublished type="str">2020-01-30</datePublished>
+	<description type="str">Dinkelbr&#246;tchen mit Reismilch. Gib jetzt die erste Bewertung f&#252;r das Rezept von Madlin64 ab! Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">dinkelbr&#246;tchen_mit_reismilch.jpg</image>
+	<keywords type="list">
+		<item type="str">Backen</item>
+		<item type="str">Brot oder Br&#246;tchen</item>
+	</keywords>
+	<name type="str">Dinkelbr&#246;tchen mit Reismilch</name>
+	<prepTime type="str">P0DT0H20M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Backen</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">140 ml Reismilch (Reisdrink) , lauwarm oder andere Milch</item>
+		<item type="str">1 W&#252;rfel Frischhefe , bio</item>
+		<item type="str">1 EL Rohrohrzucker</item>
+		<item type="str">500 g Dinkelmehl</item>
+		<item type="str">1 TL Salz</item>
+		<item type="str">2 EL Oliven&#246;l</item>
+		<item type="str">50 ml Reismilch (Reisdrink)</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Die Reismilch mit der Hefe und dem Zucker vermischen und 1 Stunde ruhen lassen.
+
+Dazu Dinkelmehl, Salz und Oliven&#246;l geben. Alles mit den Knethaken zu einem Teig bearbeiten, dazu noch einmal die 50 ml Reismilch dazugeben. Den Teig dann in der Sch&#252;ssel abgedeckt 1 gute Stunde ruhen lassen.
+
+Dann den Teig nochmals durcharbeiten und zum Brot formen. Entweder so als Brot backen. Oder dann dicke Scheiben abschneiden, diese noch etwas formen und im auf 200 &#176;C Ober-/Unterhitze vorgeheizten Backofen bei 180 &#176;C Ober-/Unterhitze etwa 30 Minuten backen.</recipeInstructions>
+	<recipeYield type="str">8 Portion(en)</recipeYield>
+	<totalTime type="str">P0DT2H50M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">4.14</ratingValue>
+		<reviewCount type="int">20</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Lilli24670</name>
+	</author>
+	<datePublished type="str">2005-03-18</datePublished>
+	<description type="str">Erdbeer - Yogurette - Torte. &#220;ber 20 Bewertungen und f&#252;r k&#246;stlich befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps! Jetzt entdecken und ausprobieren!</description>
+	<image type="str">erdbeer_-_yogurette_-_torte.jpg</image>
+	<keywords type="list">
+		<item type="str">Backen</item>
+		<item type="str">Torte</item>
+	</keywords>
+	<name type="str">Erdbeer - Yogurette - Torte</name>
+	<nutrition type="dict">
+		<key name="@type" type="str">NutritionInformation</key>
+		<calories type="str">400 kcal</calories>
+		<servingSize type="str">1</servingSize>
+	</nutrition>
+	<prepTime type="str">P0DT0H40M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Backen</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">3  Ei(er) (Gr&#246;&#223;e M)</item>
+		<item type="str">125 g Zucker</item>
+		<item type="str">65 g Mehl</item>
+		<item type="str">1 Pck. Puddingpulver (Vanille)</item>
+		<item type="str">2 Pck. Schokolade (Yogurette)</item>
+		<item type="str">4 Bl&#228;tter Gelatine , wei&#223;</item>
+		<item type="str">500 g Erdbeeren</item>
+		<item type="str">750 g Schmand oder Creme fraiche</item>
+		<item type="str">200 g Schlagsahne</item>
+		<item type="str">1 Pck. Vanillezucker</item>
+		<item type="str">evtl. Pistazien</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Eine Springform (26 cm) am Boden mit Backpapier auslegen. Eier und 100 g Zucker schaumig schlagen. Mehl und Puddingpulver mischen, darauf sieben und unterheben. In die Form streichen und im vorgeheizten Backofen (200&#176;C) ca. 12 Minuten backen. Schokoriegel in Scheiben schneiden. Gelatine kalt einweichen. Erdbeeren waschen, putzen und klein schneiden. Schmand und 25 g Zucker steif schlagen. Gelatine ausdr&#252;cken, bei milder Hitze aufl&#246;sen. 3 EL Schmandmasse einr&#252;hren, dann unter die &#252;brige Masse ziehen. Sahne steif schlagen, dabei Vanillezucker einrieseln lassen. Erst Sahne, dann Erdbeeren und Schokoriegel-Scheiben unter die Schmandmasse heben. Wellenf&#246;rmig auf den Biskuitboden streichen. Kalt stellen. Evt. mit Pistazien, Erdbeeren und Schokor&#246;llchen verzieren.</recipeInstructions>
+	<recipeYield type="str">1 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">katti74</name>
+			</author>
+			<datePublished type="str">2005-06-29</datePublished>
+			<reviewBody type="str">Kam sehr gut an und war einfach zu machen. Dekoriert mit frischen Erdbeeren und ein paar Schokor&#246;llchen ein echter Hingucker! 
+Unbedingt ausprobieren!
+
+Gr&#252;&#223;e katti74</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Marshmallow</name>
+			</author>
+			<datePublished type="str">2005-05-15</datePublished>
+			<reviewBody type="str">Hallo,
+
+tolles, erfrischendes Rezept! Habe die Torte als Minitorte gebacken und verschenkt.  Als Dekoration habe ich 4 halbierte Joghurettenriegel und einige frische Erdbeeren oben auf die Torte gelegt.  
+
+LG
+Marsh.</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Gel&#246;schter Benutzer</name>
+			</author>
+			<datePublished type="str">2005-05-11</datePublished>
+			<reviewBody type="str">Diese Torte ist wirklich lecker! Nicht so s&#252;&#223; und sehr erfrischend! Und vor allem: SEHR EINFACH !</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT2H40M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.5</ratingValue>
+		<reviewCount type="int">2</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">MM71</name>
+	</author>
+	<datePublished type="str">2007-12-04</datePublished>
+	<description type="str">Beschwipste Kirschen mit Sahne - einfach und einfach lecker. &#220;ber 2 Bewertungen und f&#252;r sehr gut befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">beschwipste_kirschen_mit_sahne.jpg</image>
+	<keywords type="list">
+		<item type="str">Party</item>
+		<item type="str">Schnell</item>
+		<item type="str">einfach</item>
+		<item type="str">Dessert</item>
+		<item type="str">Frucht</item>
+	</keywords>
+	<name type="str">Beschwipste Kirschen mit Sahne</name>
+	<prepTime type="str">P0DT0H10M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Dessert</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">1 Glas Kirsche(n)</item>
+		<item type="str">&#188; Liter Eierlik&#246;r</item>
+		<item type="str">2 Becher Sahne</item>
+		<item type="str">1 EL Zucker</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Die Kirschen gut abtropfen lassen. Anschlie&#223;end mit dem Eierlik&#246;r vermischen und &#252;ber Nacht ziehen lassen.
+
+Am n&#228;chsten Tag nur noch die Sahne mit dem Zucker steif schlagen und unter die Kirschen heben.</recipeInstructions>
+	<recipeYield type="str">8 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Pumpkin-Pie</name>
+			</author>
+			<datePublished type="str">2011-08-21</datePublished>
+			<reviewBody type="str">Hallo,
+
+dein Dessert ist sehr lecker gewesen. F&#252;r mich war es nur etwas zuviel Eierlik&#246;r, doch das ist immer Geschmackssache.
+
+Ein sehr sch&#246;nes, schnell gemachtes Rezept, das ich gerne wieder machen werde. Ein Foto ist auch schon unterwegs.
+
+Liebe Gr&#252;&#223;e
+
+Pumpkin-Pie</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT12H10M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">2.75</ratingValue>
+		<reviewCount type="int">2</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">kochw&#252;tiger saarl&#228;nder</name>
+	</author>
+	<datePublished type="str">2002-05-03</datePublished>
+	<description type="str">Pikante Schnitzel. &#220;ber 2 Bewertungen und f&#252;r k&#246;stlich befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps! Jetzt entdecken und ausprobieren!</description>
+	<image type="str">pikante_schnitzel.jpg</image>
+	<keywords type="list">
+		<item type="str">Hauptspeise</item>
+		<item type="str">Schwein</item>
+		<item type="str">Braten</item>
+		<item type="str">&#220;berbacken</item>
+	</keywords>
+	<name type="str">Pikante Schnitzel</name>
+	<prepTime type="str">P0DT0H30M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Schwein</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">4  Schweineschnitzel</item>
+		<item type="str">2 EL Senf , mittelscharfer</item>
+		<item type="str">1 EL Semmelbr&#246;sel</item>
+		<item type="str">2 EL Butter , weiche</item>
+		<item type="str">8  Chilischote(n) , getrocknet</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Schnitzel in einer Pfanne auf beiden Seiten anbraten und ausk&#252;hlen lassen. In der Zwischenzeit die Butter, den Senf und die Semmelbr&#246;sel zu einer Paste vermischen. Die Chilischoten zerbr&#246;seln und untermischen. Die Schnitzel von beiden Seiten mit Salz und Pfeffer w&#252;rzen und in eine Auflaufform legen. Das Fleisch gleichm&#228;&#223;ig mit der Paste bestreichen und im Backofen bei 250&#176;C ca. 15-20 Min: gratinieren.</recipeInstructions>
+	<recipeYield type="str">4 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Gel&#246;schter Benutzer</name>
+			</author>
+			<datePublished type="str">2008-02-22</datePublished>
+			<reviewBody type="str">Hallo kochw&#252;tiger Saarl&#228;nder,
+die Idee ist gut, doch f&#252;r 4 Schnitzel den  Backofen anwerfen? Bei 250&#176;C ca. 15-20 Min. erscheint mir auch erheblich zu lang, da d&#252;rften sie trocken und hart werden. Ich habe sie daher in der Pfanne zubereitet, geht prima, jede Seite ca. 5 Min. bei mittlerer Temperatur. 8  getrocknete  Chilischoten ist etwas unpr&#228;zise, mit den kleinen scharfen (&lt; als 1cm) w&#228;re man zum Feuerspeier geworden. Bei den gro&#223;en milden Peperoni (ca. 4-6cm lang) w&#228;ren 8 auch zuviel, habe daher 2 gro&#223;e (entkernt) und 2 kleine genommen, was hinkam.
+Danke f&#252;r das Rezept, Foto kommt, 
+Gr&#252;&#223;le, Pietra</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">SebastianP</name>
+			</author>
+			<datePublished type="str">2008-02-05</datePublished>
+			<reviewBody type="str">Die pikanten Schnitzel waren ok, allerdings war mein Gesamteindruck etwas getr&#252;bt, da ich scheinbar ein etwas faseriges St&#252;ck Schnitzel (waren Kalbsschnitzel) erwischt habe. Daf&#252;r kann der Rezeptschreiber nat&#252;rlich nichts...
+
+Allerdings hat die Paste leider auch nicht so gut an dem Schnitzel gehaftet wie ich mir das vorgestellt habe. 
+
+Ich habe Chilli-Flocken genommen, von der Menge f&#252;r zwei kleine Schnitzel etwa 1 1/2 frische Chilli-Schoten. 
+
+Ein Bild (inkl. Bratkartoffeln werde ich hochladen).
+
+Gru&#223;
+Sebastian</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Corbisez</name>
+			</author>
+			<datePublished type="str">2004-03-15</datePublished>
+			<reviewBody type="str">Meinst Du wirklich 8, in Worten acht, Chilischoten? Und das f&#252;r 4 Personen? Dann nennst Du Deine pikanten Schnitzel besser Feuerschnitzel. Wenn ich f&#252;r 4 Personen koche, nehme ich h&#246;chstens 2 Schoten und dann ist es schon scharf, obwohl wir es sehr gerne feurig m&#246;gen.
+
+Gruss Wilma</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H30M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Herzsolo_Tout</name>
+	</author>
+	<datePublished type="str">2019-01-17</datePublished>
+	<description type="str">Spekulatius-Schoko-Kugeln. Gib jetzt die erste Bewertung f&#252;r das Rezept von Herzsolo_Tout ab! Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">spekulatius-schoko-kugeln.jpg</image>
+	<keywords type="list">
+		<item type="str">Winter</item>
+		<item type="str">Weihnachten</item>
+		<item type="str">Resteverwertung</item>
+		<item type="str">Konfiserie</item>
+	</keywords>
+	<name type="str">Spekulatius-Schoko-Kugeln</name>
+	<prepTime type="str">P0DT1H0M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Resteverwertung</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">5  Spekulatius</item>
+		<item type="str">4 EL Haseln&#252;sse, gemahlen</item>
+		<item type="str">200 g Schokolade, wei&#223;e , oder Kuvert&#252;re</item>
+		<item type="str">50 ml Kondensmilch</item>
+		<item type="str">100 g Kuvert&#252;re , dunkle</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Spekulatius fein zerkleinern. Das geht gut mit einer K&#252;chenmaschine. Oder man packt die Spekulatius in eine Plastikt&#252;te oder ein sauberes Geschirrtuch. Dann kann man sie "zerklopfen". Das geht zum Beispiel gut mit einem Nudelholz.
+
+Die gemahlenen Haseln&#252;sse in eine beschichtete Pfanne (ohne &#214;l) geben. Dann Pfanne hei&#223; werden lassen und Haseln&#252;sse darin sch&#246;n goldbraun r&#246;sten. Dann aus der Pfanne herausnehmen. 
+Achtung: Sie k&#246;nnen leicht anbrennen. Daher darauf achten, dass die N&#252;sse viel in der Pfanne bewegt werden. 
+
+Die wei&#223;e Schokolade oder Kuvert&#252;re mit einem Messer klein hacken. Diese Schokost&#252;cke dann in eine Schale geben.
+ 
+Die Kondensmilch in einem Topf erw&#228;rmen. So, dass die Kondensmilch kurz aufkocht. Sobald sie kocht, sofort in die Schale zur wei&#223;en Schokolade oder Kuvert&#252;re gie&#223;en. Eine Minute ruhen lassen. Danach kann die Kondensmilch-Schoko-Masse zu dickfl&#252;ssig verr&#252;hrt werden.
+
+Nun auch die gemahlenen Spekulatius und die ger&#246;steten N&#252;sse unter die Kondensmilch-Schoko-Masse r&#252;hren. Die Gesamtmasse am besten &#252;ber Nacht, mindestens jedoch 6 Stunden, im K&#252;hlschrank fest werden lassen. 
+
+Nachdem die Masse fest geworden ist, kann man mit einem Teel&#246;ffel kleine Teile der Masse herausstechen. Diese dann mit den H&#228;nden zu kleinen Kugeln rollen. Die Kugeln auf einem Schneidbrett zwischenlagern und erneut im K&#252;hlschrank ruhen lassen. Diesmal reichen 30 Minuten v&#246;llig aus.
+
+In der Zwischenzeit die dunkle Kuvert&#252;re im Wasserbad schmelzen. Damit kann man dann die Kugeln ummanteln. Wenn die Kuvert&#252;re fest geworden ist, sind die Spekulatius-Schoko-Kugeln fertig.</recipeInstructions>
+	<recipeYield type="str">1 Portion(en)</recipeYield>
+	<totalTime type="str">P0DT9H0M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.25</ratingValue>
+		<reviewCount type="int">2</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Katzenlady_richtet_an</name>
+	</author>
+	<cookTime type="str">P0DT0H30M</cookTime>
+	<datePublished type="str">2017-12-29</datePublished>
+	<description type="str">Vegetarisch gef&#252;llte Paprikaschoten - ohne Feta auch vegan. &#220;ber 2 Bewertungen und f&#252;r mega befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">vegetarisch_gef&#252;llte_paprikaschoten.jpg</image>
+	<keywords type="list">
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Hauptspeise</item>
+		<item type="str">Backen</item>
+		<item type="str">Vegetarisch</item>
+		<item type="str">Reis</item>
+		<item type="str">raffiniert oder preiswert</item>
+		<item type="str">K&#228;se</item>
+		<item type="str">Getreide</item>
+		<item type="str">Lactose</item>
+	</keywords>
+	<name type="str">Vegetarisch gef&#252;llte Paprikaschoten</name>
+	<nutrition type="dict">
+		<key name="@type" type="str">NutritionInformation</key>
+		<calories type="str">402 kcal</calories>
+		<servingSize type="str">1</servingSize>
+	</nutrition>
+	<prepTime type="str">P0DT0H20M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Raffiniert &amp; preiswert</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">4  Paprikaschote(n)</item>
+		<item type="str">150 g Reis</item>
+		<item type="str">100 g Couscous</item>
+		<item type="str">1 gro&#223;e Zwiebel(n)</item>
+		<item type="str">1 gro&#223;e Tomate(n)</item>
+		<item type="str">200 g Feta-K&#228;se</item>
+		<item type="str"> Salz und Pfeffer</item>
+		<item type="str">1 kl. Bund Petersilie</item>
+		<item type="str">1 TL Gem&#252;sebr&#252;he , gek&#246;rnte</item>
+		<item type="str">300 ml Wasser</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Den Reis mit etwas Salz kochen, bis er die gew&#252;nschte Bissfestigkeit hat. Den Couscous in eine Sch&#252;ssel mit dem Wasser und der Gem&#252;sebr&#252;he geben und 10 min quellen lassen oder so wie es die Packungsbeilage der Sorte vorgibt. 
+
+Die Paprika, die im besten Fall unten flach und nicht spitz sind, weil sie dann sp&#228;ter gut auf dem Blech stehen, waschen, dann einmal rund um den Strunk einschneiden und den Deckel herausnehmen. Die Paprika mit einem passendem L&#246;ffel auskratzen und die Kerne entfernen, ggf. nochmal auswaschen.
+
+Wenn der Couscous das Wasser aufgenommen und eine weiche Konsistenz hat, den Reis hinzugeben, gut durchmischen und mit Salz und Pfeffer abschmecken.. 
+
+Den Feta in W&#252;rfel schneiden, die Zwiebeln klein schneiden, die Tomate (ohne Inneres) klein schneiden die Petersilie hacken. Alles in die Sch&#252;ssel zum Reis-Couscous-Mix geben und nochmals alles gut durchmischen und abschmecken.
+
+Nun das Gemisch in die Paprikaschoten f&#252;llen. L&#246;ffel f&#252;r L&#246;ffel reinsch&#246;pfen und gut festdr&#252;cken, dass m&#246;glichst viel reinpasst. Den Deckel wieder aufstecken, dabei kann es sein, dass etwas F&#252;llung heraus quillt, das ist aber gut so, einfach wieder abstreifen.
+
+Jetzt ein Backblech mit Backpapier belegen, an den Stellen, wo die Paprikaschoten stehen sollen, etwas mit &#214;l einpinseln und das Blech f&#252;r 20 min bei 200 Grad in den Ofen geben, bis die Paprikaschoten oben etwas braun werden.
+
+Meine perfekte Beilage sind Ofenkartoffeln mit oder ohne Sour Cream.
+
+Die F&#252;llung eignet sich auch gut, um Tomaten zu f&#252;llen. Sie kann auch gerne ohne Couscous gemacht werden. Wenn der Feta weggelassen wird, ist es vegan. Ich versch&#228;tze mich gern mit der Menge, deswegen bleibt manchmal etwas F&#252;llung &#252;ber, die aber auch so schmeckt oder man f&#252;llt noch eine weitere Paprika.</recipeInstructions>
+	<recipeYield type="str">4 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Katzenlady_richtet_an</name>
+			</author>
+			<datePublished type="str">2018-01-23</datePublished>
+			<reviewBody type="str">Das freut mich, das es geschmeckt hat ! :)</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Zuckerkeks01</name>
+			</author>
+			<datePublished type="str">2018-01-22</datePublished>
+			<reviewBody type="str">Ich habe das Rezept heute ausprobiert und fand es sehr gut. Ich werde es bestimmt noch einmal kochen falls ich schnell etwas gutes essen m&#246;chte.</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H50M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Tshaka</name>
+	</author>
+	<datePublished type="str">2002-07-02</datePublished>
+	<description type="str">Spargel mit Kr&#228;uterfilet. Gib jetzt die erste Bewertung f&#252;r das Rezept von Tshaka ab! Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">spargel_mit_kr&#228;uterfilet.jpg</image>
+	<keywords type="list">
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Hauptspeise</item>
+		<item type="str">Schwein</item>
+		<item type="str">Braten</item>
+	</keywords>
+	<name type="str">Spargel mit Kr&#228;uterfilet</name>
+	<nutrition type="dict">
+		<key name="@type" type="str">NutritionInformation</key>
+		<calories type="str">260 kcal</calories>
+		<servingSize type="str">1</servingSize>
+	</nutrition>
+	<prepTime type="str">P0DT0H30M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Braten</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">4 Zweig/e Minze</item>
+		<item type="str">&#189; Bund Petersilie</item>
+		<item type="str">&#189; Bund Basilikum</item>
+		<item type="str">1 Zehe/n Knoblauch</item>
+		<item type="str">1  Limette(n) , unbehandelt</item>
+		<item type="str">4 EL &#214;l</item>
+		<item type="str"> Pfeffer</item>
+		<item type="str">300 g Schweinefilet(s)</item>
+		<item type="str">2 kg Spargel , wei&#223;er</item>
+		<item type="str"> Salz</item>
+		<item type="str">1 Bund Fr&#252;hlingszwiebel(n)</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Kr&#228;uter abbrausen, trocken sch&#252;tteln, Bl&#228;ttchen abzupfen und hacken. Knoblauch abziehen, fein w&#252;rfeln. Limette abbrausen, Schale abreiben, die halbe Frucht auspressen. Alles mit &#214;l und Pfeffer verr&#252;hren.
+
+Fleisch abbrausen, trocken tupfen und in Scheiben schneiden. Mit der Marinade bestreichen, ca. 60 Minuten ziehen lassen.
+
+Spargel vorbereiten, in Salzwasser 12 Minuten garen. Fr&#252;hlingszwiebeln abbrausen, putzen und in grobe St&#252;cke schneiden.
+
+Fleisch salzen und mit den Zwiebeln anbraten. Mit dem Spargel anrichten.</recipeInstructions>
+	<recipeYield type="str">4 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">movostu</name>
+			</author>
+			<datePublished type="str">2016-07-24</datePublished>
+			<reviewBody type="str">Bei mir gabs gebratenen gr&#252;nen Spargel und Kartoffeln dazu.
+
+Gru&#223; movostu</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Gel&#246;schter Benutzer</name>
+			</author>
+			<datePublished type="str">2003-06-29</datePublished>
+			<reviewBody type="str">Ich habe dieses leckere Rezept ausprobiert. GENIAL !!! Die leichte s&#228;uerliche Note der Limette und der Minze ist ideal f&#252;r den Sommer. Prima Idee! Klasse!</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H30M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">pralinchen</name>
+	</author>
+	<datePublished type="str">2010-02-05</datePublished>
+	<description type="str">Bratapfel mit Hagebuttenmus. Gib jetzt die erste Bewertung f&#252;r das Rezept von pralinchen ab! Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">bratapfel_mit_hagebuttenmus.jpg</image>
+	<keywords type="list">
+		<item type="str">Backen</item>
+		<item type="str">Winter</item>
+		<item type="str">Dessert</item>
+		<item type="str">Herbst</item>
+		<item type="str">Weihnachten</item>
+		<item type="str">Frucht</item>
+	</keywords>
+	<name type="str">Bratapfel mit Hagebuttenmus</name>
+	<prepTime type="str">P0DT0H10M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Dessert</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">4  &#196;pfel</item>
+		<item type="str">2 EL Konfit&#252;re (Hagebuttenmus)</item>
+		<item type="str">2 EL Quark</item>
+		<item type="str">2  Eigelb</item>
+		<item type="str">2 TL Honig</item>
+		<item type="str">etwas Zimt</item>
+		<item type="str">1 EL Zitronensaft</item>
+		<item type="str">evtl. N&#252;sse</item>
+		<item type="str">evtl. Rosinen</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Die &#196;pfel waschen und das Kerngeh&#228;use ausstechen. Hagebuttenmus, Quark, Eigelbe, Zimt, Honig und Zitronensaft verr&#252;hren und die &#196;pfel damit f&#252;llen. Bei 220&#176;C ca. 30 Min. backen.
+
+Tipp: Man kann noch Rosinen oder N&#252;sse in F&#252;llung geben.</recipeInstructions>
+	<recipeYield type="str">4 Portion(en)</recipeYield>
+	<totalTime type="str">P0DT0H10M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">kipo32</name>
+	</author>
+	<cookTime type="str">P0DT0H10M</cookTime>
+	<datePublished type="str">2016-04-06</datePublished>
+	<description type="str">Brokkoli-Basilikum-Pesto - Das Pesto passt hervorragend zu Pasta oder Zoodles. Gib jetzt die erste Bewertung f&#252;r das Rezept von kipo32 ab! Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">brokkoli-basilikum-pesto.jpg</image>
+	<keywords type="list">
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Saucen</item>
+		<item type="str">Dips</item>
+		<item type="str">gekocht</item>
+		<item type="str">Grundrezepte</item>
+		<item type="str">Gew&#252;rze &#214;l Essig Pasten</item>
+	</keywords>
+	<name type="str">Brokkoli-Basilikum-Pesto</name>
+	<prepTime type="str">P0DT0H20M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Kochen</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">125 g Brokkoli</item>
+		<item type="str">25 g Pinienkerne</item>
+		<item type="str">1 kleine Knoblauchzehe(n)</item>
+		<item type="str">1 Handvoll Basilikumbl&#228;tter</item>
+		<item type="str">25 g Pecorino oder Parmesan, frisch gerieben</item>
+		<item type="str">30 ml Oliven&#246;l</item>
+		<item type="str">10 ml Walnuss&#246;l oder Macadamia&#246;l</item>
+		<item type="str">1 Msp. Chilipulver</item>
+		<item type="str"> Zitronensaft</item>
+		<item type="str"> Akazienhonig</item>
+		<item type="str">1  Peperoni, rot</item>
+		<item type="str"> Salz und Pfeffer , schwarzer</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Zuerst den Brokkoli grob zerkleinern und f&#252;r etwa 8 Minuten in kochendes, leicht gesalzenes Wasser geben. Den Brokkoli anschlie&#223;end abgie&#223;en und sofort in Eiswasser legen, damit er seine sch&#246;ne gr&#252;ne Farbe beh&#228;lt. Dann wieder abgie&#223;en und gut abtropfen lassen.
+
+Die Pinienkerne in einer Pfanne ohne &#214;l kurz r&#246;sten.
+
+Brokkoli, Pinienkerne, Knoblauch, Basilikum, &#214;l, Chili in einen Mixer geben und fein p&#252;rieren. Je nach gew&#252;nschter Konsistenz noch etwas &#214;l zuf&#252;gen und mit wenig Salz (Pecorino kommt noch dazu!), Pfeffer, etwas Honig und Zitronensaft abschmecken.
+
+Zum Schluss den geriebenen K&#228;se unter die Masse r&#252;hren (nicht mehr mixen!)
+
+Vorm Servieren dann die Peperoni entkernen, in feine W&#252;rfel schneiden und entweder unter das Pesto r&#252;hren oder separat &#252;ber der fertigen Pasta verteilen.</recipeInstructions>
+	<recipeYield type="str">2 Portion(en)</recipeYield>
+	<totalTime type="str">P0DT0H30M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.5</ratingValue>
+		<reviewCount type="int">2</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Anaid55</name>
+	</author>
+	<cookTime type="str">P0DT0H15M</cookTime>
+	<datePublished type="str">2019-07-08</datePublished>
+	<description type="str">Marillenkompott - Einfach, zu Marillenkn&#246;deln. &#220;ber 2 Bewertungen und f&#252;r super befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">marillenkompott.jpg</image>
+	<keywords type="list">
+		<item type="str">Vegetarisch</item>
+		<item type="str">Beilage</item>
+		<item type="str">Schnell</item>
+		<item type="str">einfach</item>
+		<item type="str">Frucht</item>
+		<item type="str">gekocht</item>
+	</keywords>
+	<name type="str">Marillenkompott</name>
+	<prepTime type="str">P0DT0H15M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Kochen</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">400 g Aprikose(n) (Marillen)</item>
+		<item type="str">50 ml Birnensaft oder Apfelsaft</item>
+		<item type="str">&#189;  Zitrone(n) , Saft davon</item>
+		<item type="str">1  Zimtstange(n)</item>
+		<item type="str">40 g Vanillezucker</item>
+		<item type="str">evtl. Zimtpulver</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Aprikosen (Marillen) waschen, entsteinen und grob w&#252;rfeln. 
+
+In einem kleinen Topf Vanillezucker karamellisieren lassen, Birnensaft und Zitronensaft dazugeben, kurz aufkochen lassen, bis sich der Zucker gel&#246;st hat. Aprikosen und Zimtstange dazugeben, 15 Min. k&#246;cheln lassen, danach abk&#252;hlen lassen, die Zimtstange herausnehmen. 
+
+Evtl. mehr Zucker, je nachdem wie s&#252;&#223; oder sauer die Aprikosen sind.
+
+Mit Marillenkl&#246;&#223;en servieren.</recipeInstructions>
+	<recipeYield type="str">2 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Anaid55</name>
+			</author>
+			<datePublished type="str">2019-08-10</datePublished>
+			<reviewBody type="str">Hallo patty,
+kurz und knapp, Dankesch&#246;n ! :-))
+Liebe Gr&#252;&#223;e Diana</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">patty89</name>
+			</author>
+			<datePublished type="str">2019-08-10</datePublished>
+			<reviewBody type="str">Hallo Diana
+einfach, schnell und lecker
+Nur ganz so s&#252;&#223; habe ich es nicht gemacht
+Danke f&#252;r das Rezept
+LG
+Patty</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H30M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">4.65</ratingValue>
+		<reviewCount type="int">223</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">mimamutti</name>
+	</author>
+	<cookTime type="str">P0DT0H5M</cookTime>
+	<datePublished type="str">2012-11-19</datePublished>
+	<description type="str">Bulgursalat - K&#305;s&#305;r - idealer Salat f&#252;r das Grillfest. &#220;ber 223 Bewertungen und f&#252;r raffiniert befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">bulgursalat.jpg</image>
+	<keywords type="list">
+		<item type="str">Salat</item>
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Sommer</item>
+		<item type="str">Vegetarisch</item>
+		<item type="str">Party</item>
+		<item type="str">einfach</item>
+		<item type="str">Fr&#252;hling</item>
+		<item type="str">Reis- oder Nudelsalat</item>
+		<item type="str">gekocht</item>
+		<item type="str">Studentenk&#252;che</item>
+		<item type="str">Lactose</item>
+		<item type="str">INFORM-Empfehlung</item>
+	</keywords>
+	<name type="str">Bulgursalat</name>
+	<nutrition type="dict">
+		<key name="@type" type="str">NutritionInformation</key>
+		<calories type="str">225 kcal</calories>
+		<servingSize type="str">1</servingSize>
+	</nutrition>
+	<prepTime type="str">P0DT0H30M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Fr&#252;hling</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">1 EL Butter</item>
+		<item type="str">1 EL Paprikamark</item>
+		<item type="str">1 EL Tomatenmark</item>
+		<item type="str">&#189; TL Kreuzk&#252;mmel</item>
+		<item type="str">1 EL Zitronensaft</item>
+		<item type="str">1 Tasse Bulgur</item>
+		<item type="str">1 Prise(n) Salz</item>
+		<item type="str">3  Fr&#252;hlingszwiebel(n)</item>
+		<item type="str">2 gro&#223;e Tomate(n)</item>
+		<item type="str">&#189;  Salatgurke(n)</item>
+		<item type="str">&#189; Bund Petersilie</item>
+		<item type="str">2 EL Raps&#246;l</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Butter, Paprikamark und Tomatenmark in einem kleinen Topf leicht anr&#246;sten. Mit der 1 Tasse Wasser abl&#246;schen, Kreuzk&#252;mmel, Zitronensaft und Salz dazugeben, aufkochen lassen, dann den Bulgur dazugeben, er sollte mit Wasser bedeckt sein, sonst evtl. noch etwas Wasser zugeben, noch mal aufkochen lassen. Vom Herd nehmen, Deckel drauf und ca. &#189; - 1 Stunde quellen lassen. Es sollte das ganze Wasser aufgesogen sein.
+
+Fr&#252;hlingszwiebeln mit Gr&#252;n in feine Ringe schneiden. Tomaten w&#252;rfeln. Salatgurke sch&#228;len und dann w&#252;rfeln. Petersilie grob hacken. Es sollte mengenm&#228;&#223;ig etwa genauso viel Gem&#252;se sein, wie Bulgur.
+
+Bulgur mit einer Gabel auflockern, dass es wieder einzelne K&#246;rner sind, dann 2 - 3 EL Raps- oder Sonnenblumen&#246;l dazugeben, umr&#252;hren und das Gem&#252;se untermischen.</recipeInstructions>
+	<recipeYield type="str">3 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Fluse13</name>
+			</author>
+			<datePublished type="str">2013-07-18</datePublished>
+			<reviewBody type="str">Hallo mimamutti,
+
+ein perfekter Salat f&#252;r einen warmen Sommertag!
+
+Ich habe alles nach Rezept gemacht (au&#223;er, dass ich anstelle von Petersilie frische Minze genommen habe) und alle Angaben haben genau gepa&#223;t.
+
+Vielen Dank f&#252;r das leckere Rezept, das es mit Sicherheit noch &#246;fter bei uns geben wird.
+
+Foto ist unterwegs.
+
+LG,
+
+Fluse</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">mimamutti</name>
+			</author>
+			<datePublished type="str">2013-07-20</datePublished>
+			<reviewBody type="str">Hallo Birgit
+
+freud mich, dass dir mein Kisir geschmeckt hat. Ich mag ihn auch sehr gerne.
+
+Ich bereite oft eine doppelte Menge Bulgur mit den Gew&#252;rzen zu und nehme davon
+
+einen Teil ab und da kommt das frisch geschnippelte Gem&#252;se zu und wird fertig
+
+zubereitet. Der Rest vom Bulgur kommt in einer Tu**erschale in der K&#252;hlschrank.
+
+So kann ich beim n&#228;chsten Mal, 2-3 Tage sp&#228;ter, das Gem&#252;se schnippel und mit dem 
+
+Bulgur dann einfach vermische, so habe ratz fatz einen frischen Kisir.
+
+Liebe Gr&#252;sse Marianne </reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">K&#252;ken141067</name>
+			</author>
+			<datePublished type="str">2019-06-26</datePublished>
+			<reviewBody type="str">Ich kann mich da nur anschlie&#223;en... einfach perfekt &#128077;</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT1H35M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">conejito</name>
+	</author>
+	<cookTime type="str">P0DT0H45M</cookTime>
+	<datePublished type="str">2013-08-07</datePublished>
+	<description type="str">Nudelsalat - s&#252;&#223; und scharf. Gib jetzt die erste Bewertung f&#252;r das Rezept von conejito ab! Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">nudelsalat_-_s&#252;&#223;_und_scharf.jpg</image>
+	<keywords type="list">
+		<item type="str">Salat</item>
+		<item type="str">Fleisch</item>
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Hauptspeise</item>
+		<item type="str">Nudeln</item>
+		<item type="str">Pasta</item>
+		<item type="str">warm</item>
+		<item type="str">Party</item>
+		<item type="str">Gefl&#252;gel</item>
+		<item type="str">Schwein</item>
+		<item type="str">Schmoren</item>
+		<item type="str">Reis- oder Nudelsalat</item>
+		<item type="str">Camping</item>
+	</keywords>
+	<name type="str">Nudelsalat - s&#252;&#223; und scharf</name>
+	<prepTime type="str">P0DT1H0M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Pasta</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">500 g Nudeln (z.B. Spirelli oder Fusilli)</item>
+		<item type="str">500 g H&#228;hnchenbrust</item>
+		<item type="str">500 g Schweinefleisch , geschnetzelt</item>
+		<item type="str">500 g Hackfleisch , gemischt</item>
+		<item type="str">8 EL Ketchup</item>
+		<item type="str">1 EL Senf</item>
+		<item type="str">2 EL Worcestersauce</item>
+		<item type="str">1 EL Chilipulver , evtl. mehr</item>
+		<item type="str">1 EL Paprikapulver , edels&#252;&#223;</item>
+		<item type="str">7  Paprikaschote(n) , rot</item>
+		<item type="str">6  Zwiebel(n)</item>
+		<item type="str">&#189; Flasche Honig , fl&#252;ssiger</item>
+		<item type="str"> Sojasauce , dunkle</item>
+		<item type="str"> Salz</item>
+		<item type="str"> Salzwasser</item>
+		<item type="str"> &#214;l zum Braten</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Alles Fleisch in d&#252;nne Scheiben schneiden, vermischen und mit Ketchup, Senf, Worcesterso&#223;e, Chili und Paprika marinieren. Inzwischen die Paprikaschoten in d&#252;nne Scheiben schneiden. Die Zwiebeln vierteln und ebenfalls in d&#252;nne Scheiben schneiden.
+
+Die Nudeln nach Packungsanweisung im Salzwasser kochen, abgie&#223;en und in einen gro&#223;en Topf geben. Etwas Sojaso&#223;e hinzuf&#252;gen, umr&#252;hren und abdecken.
+
+Das marinierte Fleisch in 3 - 4 Portionen in einer Pfanne mit hei&#223;em &#214;l braten. Jede Portion abschlie&#223;end salzen, &#252;ber die Nudeln geben, einige Spritzer Sojaso&#223;e hinzuf&#252;gen und verr&#252;hren.
+
+Die Paprika in 3 - 4 Portionen in einer Pfanne mit hei&#223;em &#214;l anbraten. Jede Portion abschlie&#223;end salzen, &#252;ber die Nudeln geben und verr&#252;hren. 
+
+Alle Zwiebeln in einer Pfanne mit hei&#223;em &#214;l anbraten und salzen. Dann eine halbe Flasche fl&#252;ssigen Honig zu den Zwiebeln geben. Die Zwiebeln einige Minuten im Honig k&#246;cheln lassen. Dann ebenfalls in den Topf geben.
+
+Alles gut verr&#252;hren und etwa 1/2 Stunde ziehen lassen. Warm oder kalt servieren.</recipeInstructions>
+	<recipeYield type="str">12 Portion(en)</recipeYield>
+	<totalTime type="str">P0DT1H45M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.92</ratingValue>
+		<reviewCount type="int">10</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">FlowerBomb</name>
+	</author>
+	<cookTime type="str">P0DT0H35M</cookTime>
+	<datePublished type="str">2012-01-23</datePublished>
+	<description type="str">Andalusische Kartoffelpfanne mit Chorizo - Urlaubsfeeling f&#252;r daheim. &#220;ber 10 Bewertungen und f&#252;r mega befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">andalusische_kartoffelpfanne_mit_chorizo.jpg</image>
+	<keywords type="list">
+		<item type="str">Fleisch</item>
+		<item type="str">Hauptspeise</item>
+		<item type="str">Europa</item>
+		<item type="str">Spanien</item>
+		<item type="str">Schnell</item>
+		<item type="str">einfach</item>
+		<item type="str">Schwein</item>
+		<item type="str">Braten</item>
+		<item type="str">Resteverwertung</item>
+		<item type="str">Kartoffeln</item>
+		<item type="str">Paleo</item>
+	</keywords>
+	<name type="str">Andalusische Kartoffelpfanne mit Chorizo</name>
+	<nutrition type="dict">
+		<key name="@type" type="str">NutritionInformation</key>
+		<calories type="str">796 kcal</calories>
+		<servingSize type="str">1</servingSize>
+	</nutrition>
+	<prepTime type="str">P0DT0H40M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Kartoffeln</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">2 kg Kartoffel(n) , festkochend</item>
+		<item type="str">500 g Paprikawurst (Chorizo)</item>
+		<item type="str">1  Chilischote(n) , rot</item>
+		<item type="str">10  Schalotte(n) oder kleine Zwiebeln</item>
+		<item type="str">etwas Oliven&#246;l , zum Braten</item>
+		<item type="str">etwas Salz und Pfeffer</item>
+		<item type="str">1 Bund Schnittlauch</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Vorbereitungen:
+Die Kartoffeln als Pellkartoffeln 20 Minuten kochen.
+
+W&#228;hrenddessen:
+Schnittlauch waschen, trocknen und in kleine R&#246;llchen schneiden. Die Chilischote putzen, l&#228;ngs einschneiden und von den Kernen befreien. Waschen und hauchfein schneiden; dabei darauf achten, dass man nicht mit den Fingern in die Augen kommt. Die Schalotten sch&#228;len und halbieren; ggf. auch vierteln. Von der Chorizo (spanische Paprikawurst) die Haut entfernen und die Wurst in Scheibchen schneiden.
+
+Nach 20 Minuten Kochzeit die Pellkartoffeln abgie&#223;en, kalt abschrecken und pellen. Zun&#228;chst gut abk&#252;hlen lassen. G&#252;nstig w&#228;ren auch Kartoffeln, die bereits am Vortag gekocht wurden. Nach dem Abk&#252;hlen die Kartoffeln in Scheiben schneiden; wie f&#252;r Bratkartoffeln. 
+
+Nun in zwei ausreichend gro&#223;en Pfannen das Oliven&#246;l erhitzen. Die Chorizoscheiben im hei&#223;en &#214;l unter vorsichtigem Wenden knusprig anbraten und dann aus den Pfannen nehmen. Nun die abgek&#252;hlten Kartoffelscheiben in diesem Bratfett f&#252;r ungef&#228;hr 10 Minuten unter Wenden braten, bis sie eine goldbraune Farbe angenommen haben. Nach 5 Minuten erst die Schalotten und Chilischote zugeben; immer weiter braten und dabei von Zeit zu Zeit wenden. Nun die Chorizoscheiben wieder zuf&#252;gen und nochmal kurz mit erw&#228;rmen. Alles mit Salz und Pfeffer sch&#246;n herzhaft abschmecken.
+
+Anrichten:
+Unmittelbar vor dem Servieren noch mit den vorbereiteten Schnittlauchr&#246;llchen bestreuen.
+
+Tipp:
+Die Pfannen k&#246;nnen so zu Tisch gebracht werden und jeder bedient sich selbst.</recipeInstructions>
+	<recipeYield type="str">4 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">FlowerBomb</name>
+			</author>
+			<datePublished type="str">2015-08-27</datePublished>
+			<reviewBody type="str">Hallo nogikon, 
+
+ich freue mich sehr, dass du als Erster dieses Gericht nachgekocht hast und dass es dir so gut geschmeckt hat. Die Knoblauchzehe passte bestimmt super und rundete das Ganze nochmal herzhaft ab. (auf die Idee h&#228;tte ich ja auch selber mal kommen k&#246;nnen)  :o)) So langsam wird es ja Herbst und ich freue mich schon auf die k&#252;hleren Tage, wenn wieder die herzhaften Gerichte wie dieses *Gr&#246;stl* oder z.B. Zwiebelkuchen auf den Tisch kommen. :-)
+
+Hab vielen Dank f&#252;r die sch&#246;ne R&#252;ckmeldung und f&#252;r die vielen Sternchen, die du f&#252;r das Rezept vergeben hast. 
+
+
+Liebe Gr&#252;&#223;e
+Flower
+</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">nogikon</name>
+			</author>
+			<datePublished type="str">2015-08-27</datePublished>
+			<reviewBody type="str">Hallo Flower,
+ich hatte noch eine Chorizo im K&#252;hlschrank und suchte ein Rezept daf&#252;r. Ich habe mich an die Vorgabe gehalten, lediglich noch eine gehackte Knoblauchzehe hinzugef&#252;gt. Fazit: Echt lecker dieses spanische "Gr&#246;stl".
+Viele Gr&#252;&#223;e
+nogikon</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">FlowerBomb</name>
+			</author>
+			<datePublished type="str">2015-08-27</datePublished>
+			<reviewBody type="str">Hallo nogikon,
+
+wow - das ist aber ein tolles Foto geworden von der Andalusischen Kartoffelpfanne !
+Ich hoffe, es hat dir mindestens genau so gut geschmeckt, wie es in deiner Pfanne aussieht ? 
+Hab vielen herzlichen Dank f&#252;rs Nachkochen und f&#252;r das sch&#246;ne Foto, dass du zu meinem Rezept hochgeladen hast. 
+
+
+
+Liebe Gr&#252;&#223;e
+Flower
+</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT1H15M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.25</ratingValue>
+		<reviewCount type="int">2</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Aquis</name>
+	</author>
+	<cookTime type="str">P0DT1H0M</cookTime>
+	<datePublished type="str">2012-05-24</datePublished>
+	<description type="str">Lammvoressen - "&#196;mmitaler Lammvor&#228;sse". &#220;ber 2 Bewertungen und f&#252;r beliebt befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">lammvoressen.jpg</image>
+	<keywords type="list">
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Hauptspeise</item>
+		<item type="str">Europa</item>
+		<item type="str">Schweiz</item>
+		<item type="str">Lamm oder Ziege</item>
+		<item type="str">gekocht</item>
+	</keywords>
+	<name type="str">Lammvoressen</name>
+	<prepTime type="str">P0DT0H20M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Gem&#252;se</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">1 kg Lammschulter , in W&#252;rfel geschnitten</item>
+		<item type="str">7 dl Bouillon (Gem&#252;se-)</item>
+		<item type="str">3 dl Wei&#223;wein , trocken</item>
+		<item type="str">1  Lorbeerblatt</item>
+		<item type="str">1  Gew&#252;rznelke(n)</item>
+		<item type="str">1 TL Salz</item>
+		<item type="str">1 TL Pfefferk&#246;rner , zerdr&#252;ckt</item>
+		<item type="str">150 g Karotte(n)</item>
+		<item type="str">150 g Knollensellerie</item>
+		<item type="str">150 g R&#252;be(n) , Pf&#228;lzer</item>
+		<item type="str">2 Msp. Safranpulver</item>
+		<item type="str">50 g Mehl</item>
+		<item type="str">50 g Butter</item>
+		<item type="str"> Salz</item>
+		<item type="str"> Pfeffer</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Lammfleisch in reichlich Wasser einmal aufkochen, in ein Sieb abgie&#223;en und kalt absp&#252;len.
+
+Karotten, Sellerie und Pf&#228;lzer R&#252;ben sch&#228;len und in St&#252;cke schneiden.
+
+Gem&#252;sebouillon, Wei&#223;wein, Lorbeerblatt, Gew&#252;rznelke, Salz und Pfeffer aufkochen, Lammragout zugeben und 20 Min. k&#246;cheln lassen. Karotten, Sellerie und R&#252;ben beigeben und das Lammvoressen bei schwacher Hitze 30 Min. k&#246;cheln lassen. Kontrollieren, ob das Fleisch gar ist. Fleisch und Gem&#252;se aus der Br&#252;he nehmen, Br&#252;he durch ein Sieb passieren.
+
+Butter schmelzen, Mehl unterr&#252;hren, hell and&#252;nsten und mit einem Schuss Wei&#223;wein abl&#246;schen, den Safran beif&#252;gen und mit der hei&#223;en Lammbr&#252;he aufgie&#223;en. Sauce 10 Minuten k&#246;cheln lassen. Fleisch und Gem&#252;se zur Sauce geben, abschmecken und kurz erhitzen.
+
+Dazu passt Kartoffelp&#252;ree oder Kartoffelstampf.</recipeInstructions>
+	<recipeYield type="str">4 Portion(en)</recipeYield>
+	<totalTime type="str">P0DT1H20M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.6</ratingValue>
+		<reviewCount type="int">3</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">aichama</name>
+	</author>
+	<datePublished type="str">2010-04-15</datePublished>
+	<description type="str">Magische Jaromakohl Suppe - normalerweise mit Wei&#223;kohl, diesmal mit Jaromakohl. &#220;ber 3 Bewertungen und f&#252;r schmackhaft befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">magische_jaromakohl_suppe.jpg</image>
+	<keywords type="list">
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Vegetarisch</item>
+		<item type="str">Suppe</item>
+		<item type="str">spezial</item>
+		<item type="str">kalorienarm</item>
+		<item type="str">fettarm</item>
+		<item type="str">Vegan</item>
+		<item type="str">gekocht</item>
+		<item type="str">Paleo</item>
+	</keywords>
+	<name type="str">Magische Jaromakohl Suppe</name>
+	<nutrition type="dict">
+		<key name="@type" type="str">NutritionInformation</key>
+		<calories type="str">108 kcal</calories>
+		<servingSize type="str">1</servingSize>
+	</nutrition>
+	<prepTime type="str">P0DT0H30M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Spezial</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">1 kleine Paprikaschote(n) , rot</item>
+		<item type="str">1  Wei&#223;kohl (Jaroma-)</item>
+		<item type="str">2 Stange/n Porree</item>
+		<item type="str">4  Fr&#252;hlingszwiebel(n)</item>
+		<item type="str">3 TL, geh&#228;uft Gem&#252;sebr&#252;he</item>
+		<item type="str">5 gro&#223;e M&#246;hre(n)</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Man setze einen gro&#223;en Topf Wasser auf, gebe die 3 Teel&#246;ffel Gem&#252;sebr&#252;he dazu und lasse es kochen. In der Zwischenzeit den Jaromakohl klein schneiden und mit den klein geschnittenen M&#246;hren in das nicht mehr so stark kochende Wasser geben. Kochen bis Kohl und M&#246;hren weich sind und die restlichen klein geschnittenen Zutaten hinzuf&#252;gen, nochmal kurz aufkochen.
+
+Wer mag kann die Suppe z.B. mit etwas Currypulver w&#252;rzen, da Salz  nicht erlaubt ist. Ich habe den Jaromakohl benutzt, da er so gut wie keine Bl&#228;hungen verursacht und auch nicht den penetranten Kohlgeruch verstr&#246;mt, daher war es sehr angenehm die Suppe mehrere Tage zu essen. Bin 3 Tage mit der Menge ausgekommen, bei 2-3 Tellern pro Tag.</recipeInstructions>
+	<recipeYield type="str">6 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">LuluDelNorte</name>
+			</author>
+			<datePublished type="str">2019-01-24</datePublished>
+			<reviewBody type="str">Gem&#252;sesuppe mit Gem&#252;sebr&#252;he? Geht auch ohne oder? </reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">patty89</name>
+			</author>
+			<datePublished type="str">2018-04-06</datePublished>
+			<reviewBody type="str">Hallo
+sehr lecker und mit Sicherheit auch kalorienarm diese Suppe
+Danke f&#252;r das Rezept
+LG
+Patty</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Fl&#246;z-Sonnenschein</name>
+			</author>
+			<datePublished type="str">2015-03-11</datePublished>
+			<reviewBody type="str">Hallo Aichama,
+
+da ich grad gr&#252;ne Paprika im Haus hatte, ist die halt in die Suppe gewandert. Sicher h&#228;tte sie mit roter Paprika noch ansprechender ausgesehen, tat dem guten Geschmack aber keinen Abbruch.
+
+Fr&#246;hliche Gr&#252;sse
+Fl&#246;z-Sonnenschein </reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H30M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.5</ratingValue>
+		<reviewCount type="int">2</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Baumfrau</name>
+	</author>
+	<cookTime type="str">P0DT0H12M</cookTime>
+	<datePublished type="str">2012-03-23</datePublished>
+	<description type="str">Feigenw&#246;lkchen - blitzschnelle, nicht so s&#252;&#223;e Kekse f&#252;rs ganze Jahr, ergibt ca. 70 St&#252;ck. &#220;ber 2 Bewertungen und f&#252;r sehr gut befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">feigenw&#246;lkchen.jpg</image>
+	<keywords type="list">
+		<item type="str">Backen</item>
+		<item type="str">Schnell</item>
+		<item type="str">einfach</item>
+		<item type="str">Kekse</item>
+	</keywords>
+	<name type="str">Feigenw&#246;lkchen</name>
+	<prepTime type="str">P0DT0H40M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Kekse &amp; Pl&#228;tzchen</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">200 g Feige(n) , getrocknete</item>
+		<item type="str">200 g Mehl , helles</item>
+		<item type="str">100 g Haseln&#252;sse , gemahlen</item>
+		<item type="str">2 TL Backpulver</item>
+		<item type="str">75 g Zucker</item>
+		<item type="str">&#189; TL Zimt , je nach Geschmack auch mehr oder weniger</item>
+		<item type="str">1 Prise(n) Muskat , oder Macis</item>
+		<item type="str">2  Ei(er)</item>
+		<item type="str">150 g Butter , weich</item>
+		<item type="str">n. B. Puderzucker , Dekorschnee o. &#228;.</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Das Backblech einfetten oder mit einer Backmatte bzw. Backpapier auslegen. 
+Die Feigen klein hacken oder schneiden. Eier, Zucker und Butter verr&#252;hren, dann die trockenen Zutaten zugeben und alles zu einem eher weichen Teig verr&#252;hren. Nun mit zwei Teel&#246;ffeln kleine H&#228;ufchen auf das Blech setzen. Ich mache die H&#228;ufchen nicht so klein wie Haseln&#252;sse, aber auch nicht ganz so gro&#223; wie Waln&#252;sse. So sind es um die 60-70 St&#252;ck - also knapp drei Bleche voll.
+
+Bei etwa 180&#176;C etwa 11-13 min backen. Nach Wunsch sofort mit Puderzucker best&#228;uben und dann abk&#252;hlen lassen. Sie sind auf keinen Fall knusprig, sondern eher locker-weich, "W&#246;lkchen" eben.
+
+Diese Kekse sind wirklich blitzschnell gebacken. Innerhalb einer Stunde habe ich alles fertig - sogar schon abgek&#252;hlt und verpackt. Man braucht nicht einmal ein R&#252;hrger&#228;t daf&#252;r, eine Gabel reicht auch, besonders wenn man richtig weiche Butter nimmt.</recipeInstructions>
+	<recipeYield type="str">1 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Eial</name>
+			</author>
+			<datePublished type="str">2012-12-02</datePublished>
+			<reviewBody type="str">Danke f&#252;r die schnelle Antwort.....dann verschiebe ich das Backen noch ein bisschen!</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Baumfrau</name>
+			</author>
+			<datePublished type="str">2012-12-02</datePublished>
+			<reviewBody type="str">Hallo Eial!
+Genie&#223;bar sind sie definitiv noch - aber richtig lecker sind sie eigentlich innerhalb der ersten etwa 10 Tage. Also vielleicht noch etwas warten mit diesen Keksen - oder erstmal probebacken + vernaschen?
+Sonnige Gr&#252;&#223;e vom B&#228;umchen.</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Eial</name>
+			</author>
+			<datePublished type="str">2012-12-02</datePublished>
+			<reviewBody type="str">Ich w&#252;rde die Feigenw&#246;lckchen gerne f&#252;r Weihnachten backen, bin mir aber unsicher, wie lange die Kekse haltbar sind? Gibt es dazu Erfahrungswerte? Wenn ich heute schon backe, sind sie  zu Weihnachten dann noch genie&#223;bar?
+
+Freue mich auf Feedback.
+Vielen Dank.</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H52M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Hans60</name>
+	</author>
+	<datePublished type="str">2009-04-03</datePublished>
+	<description type="str">Sauerkraut - Auflauf III - glutenfrei, vegetarisch, in der Bratpfanne zubereitet. Gib jetzt die erste Bewertung f&#252;r das Rezept von Hans60 ab! Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">sauerkraut_-_auflauf_iii.jpg</image>
+	<keywords type="list">
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Hauptspeise</item>
+		<item type="str">Backen</item>
+		<item type="str">Vegetarisch</item>
+		<item type="str">raffiniert oder preiswert</item>
+		<item type="str">Schnell</item>
+		<item type="str">einfach</item>
+		<item type="str">Winter</item>
+		<item type="str">Herbst</item>
+		<item type="str">Resteverwertung</item>
+		<item type="str">Vollwert</item>
+	</keywords>
+	<name type="str">Sauerkraut - Auflauf III</name>
+	<prepTime type="str">P0DT0H20M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Vollwert</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">1  Ei(er)</item>
+		<item type="str">250 g Magerquark</item>
+		<item type="str">1 TL Salz</item>
+		<item type="str">1 TL Zucker</item>
+		<item type="str">&#189; TL Paprikagranulat</item>
+		<item type="str">250 g Sauerkraut</item>
+		<item type="str">3 EL Ananas , (St&#252;cke)</item>
+		<item type="str">150 g Mais , gemahlen</item>
+		<item type="str">50 g Naturreis , gemahlen</item>
+		<item type="str">100 g Milch</item>
+		<item type="str">50 g Sonnenblumenkerne</item>
+		<item type="str"> Margarine , zum Ausfetten</item>
+		<item type="str">3 Scheibe/n K&#228;se , (Raclette-)</item>
+		<item type="str">1 TL Preiselbeeren , a. d. Glas</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">20 cm Bratpfanne mit Deckel
+2-3 Portionen
+
+Von Ei bis Sonnenblumenkerne alles verr&#252;hren, in die 20 cm ausgefettete Bratpfanne die Teigmasse gie&#223;en, glatt streichen, mit dem K&#228;se belegen, in die Mitte 1 Tl Preiselbeeren geben, Deckel schlie&#223;en, auf eine kalte Kochplatte stellen, mit Stufe drei von sechs m&#246;glichen Stufen ca. 40-50 min backen, l&#228;sst sich der Auflauf in der Pfanne bewegen, ist er fertig.
+
+Eigenes Rezept</recipeInstructions>
+	<recipeYield type="str">2 Portion(en)</recipeYield>
+	<totalTime type="str">P0DT0H20M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.89</ratingValue>
+		<reviewCount type="int">7</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">kalinka0815</name>
+	</author>
+	<cookTime type="str">P0DT0H10M</cookTime>
+	<datePublished type="str">2013-02-11</datePublished>
+	<description type="str">Fischfrikadellen-Burger. &#220;ber 7 Bewertungen und f&#252;r beliebt befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps! Jetzt entdecken und ausprobieren!</description>
+	<image type="str">fischfrikadellen-burger.jpg</image>
+	<keywords type="list">
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Hauptspeise</item>
+		<item type="str">einfach</item>
+		<item type="str">Fisch</item>
+		<item type="str">Braten</item>
+		<item type="str">Snack</item>
+		<item type="str">Studentenk&#252;che</item>
+	</keywords>
+	<name type="str">Fischfrikadellen-Burger</name>
+	<prepTime type="str">P0DT0H30M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Snacks und kleine Gerichte</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">1 m.-gro&#223;e Zwiebel(n)</item>
+		<item type="str">1 m.-gro&#223;e Zwiebel(n) , rot</item>
+		<item type="str">4 Stiele Petersilie , glatte</item>
+		<item type="str">500 g Fischfilet(s) , gr&#228;tenfrei (z.B. Seelachs, Kabeljau, Wittling, Pollack, Steinbei&#223;er)</item>
+		<item type="str">10 EL Semmelbr&#246;sel</item>
+		<item type="str">1  Ei(er)</item>
+		<item type="str">1 EL Zitronensaft</item>
+		<item type="str">1 gro&#223;e Tomate(n)</item>
+		<item type="str">&#188;  Salatgurke(n)</item>
+		<item type="str">4  Br&#246;tchen , (Burgerbr&#246;tchen oder runde Kaiserbr&#246;tchen)</item>
+		<item type="str">8 EL Remoulade , (Hamburger oder andere je nach Geschmack)</item>
+		<item type="str">4 Bl&#228;tter Salat , (Eisberg oder &#228;hnliches)</item>
+		<item type="str"> Salz und Pfeffer</item>
+		<item type="str"> Butterschmalz , oder &#214;l zum Braten</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">F&#252;r die Frikadellen:
+Fischfilet gut abtropfen bzw. trocken tupfen, grob w&#252;rfeln. Die Zwiebel sch&#228;len und w&#252;rfeln. Die Petersilie zupfen und hacken. Fisch mit Zwiebel, Petersilie in einer K&#252;chenmaschine zerkleinern oder mit dem Messer alles sehr fein hacken. Fisch-Masse mit Ei, 5 EL Semmelmehl, Zitronensaft in eine Sch&#252;ssel geben, mit Salz und Pfeffer nach Geschmack w&#252;rzen (wer mag kann der Masse auch eine fein gehackte Zehe Knoblauch dazu geben). Masse zusammenkneten und 4 Frikadellen daraus formen. In dem restlichen Semmelmehl wenden.
+In einer ausreichend gro&#223;en Pfanne mit Butterschmalz oder &#214;l bei mittlerer Hitze langsam ca. 5 min jede Seite braten. Wenden bitte erst, wenn sich unten eine Kruste gebildet hat. 
+
+In der Zwischenzeit rote Zwiebel sch&#228;len und in feine Ringe schneiden. Gurke und Tomate in feine Scheiben schneiden, Br&#246;tchen aufschneiden, mit Remoulade die untere H&#228;lfte einstreichen, Salatblatt auflegen, Frikadelle in&#8216;s Br&#246;tchen und nach Geschmack mit Tomate, Gurke und Zwiebel belegen. 
+Wer mag, kann auch Ketchup oder Barbequesauce verwenden oder eine Scheibe K&#228;se, das ist aber reine Geschmackssache.
+Dazu schmeckt am besten ein knackiger Blattsalat mit Sylterdressing.</recipeInstructions>
+	<recipeYield type="str">4 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Hobbykoch-Bine68</name>
+			</author>
+			<datePublished type="str">2019-07-07</datePublished>
+			<reviewBody type="str">Hat sehr lecker geschmeckt!
+Danke f&#252;r das Rezept und liebe Gr&#252;sse, Bine</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">tweetyzicke</name>
+			</author>
+			<datePublished type="str">2017-06-08</datePublished>
+			<reviewBody type="str">Haben das Rezept gestern probiert und waren begeistert</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Sandyrsl</name>
+			</author>
+			<datePublished type="str">2013-02-28</datePublished>
+			<reviewBody type="str">Habe die Frikadellen heute ausprobiert allerdings nicht als Burger sondern auf Reis mit Zitronenso&#223;e aber sehr lecker und einfach zu zubereiten! Vielen Dank! </reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H40M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">luckytina</name>
+	</author>
+	<datePublished type="str">2010-12-30</datePublished>
+	<description type="str">S&#252;&#223; - scharfer Nudelsalat - fettarm, schnell zubereitet, ww-tauglich. Gib jetzt die erste Bewertung f&#252;r das Rezept von luckytina ab! Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">s&#252;&#223;_-_scharfer_nudelsalat.jpg</image>
+	<keywords type="list">
+		<item type="str">Salat</item>
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Vorspeise</item>
+		<item type="str">kalt</item>
+		<item type="str">Vegetarisch</item>
+		<item type="str">Schnell</item>
+		<item type="str">einfach</item>
+		<item type="str">fettarm</item>
+		<item type="str">Snack</item>
+		<item type="str">Reis- oder Nudelsalat</item>
+	</keywords>
+	<name type="str">S&#252;&#223; - scharfer Nudelsalat</name>
+	<prepTime type="str">P0DT0H15M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Schnell und einfach</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">160 g Penne , Mini-</item>
+		<item type="str">400 g Brokkoli , kleine R&#246;schen, frisch oder TK</item>
+		<item type="str">4  Fr&#252;hlingszwiebel(n)</item>
+		<item type="str">700 g Ananas , St&#252;cke (frisch oder Konserve ohne Zucker)</item>
+		<item type="str">4 EL Mais</item>
+		<item type="str">100 ml Gem&#252;sebr&#252;he</item>
+		<item type="str">3 TL Aprikosenkonfit&#252;re</item>
+		<item type="str">4 EL Balsamico , wei&#223;er</item>
+		<item type="str">1 TL Sambal Oelek</item>
+		<item type="str"> Salz</item>
+		<item type="str">2  Knoblauchzehe(n)</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Nudeln in kochendem Salzwasser bissfest garen und abschrecken. Brokkolir&#246;schen ebenfalls in kochendem Salzwasser bissfest garen bzw. TK-Brokkoli nach Anweisung zubereiten. 
+Fr&#252;hlingszwiebeln in Ringe schneiden, Ananasst&#252;cke abtropfen lassen und alles mit Brokkoli, Mais und Nudeln vermengen. 
+
+Br&#252;he, Marmelade, Essig und Sambal Oelek verr&#252;hren und mit Salz abschmecken. Knoblauch ganz fein w&#252;rfeln, untermischen und mit den Salatzutaten vermengen. Salat 30 Min durchziehen lassen. 
+
+Wer es gern noch sch&#228;rfer mag, kann noch etwas Chilipulver zugeben. Ich selbst mache den Salat meist am Vorabend und nehme ihn dann mit ins B&#252;ro. Er ist geschmacklich mal was anderes, als die &#252;blichen Nudelsalate mit Mayo.</recipeInstructions>
+	<recipeYield type="str">2 Portion(en)</recipeYield>
+	<totalTime type="str">P0DT1H15M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.0</ratingValue>
+		<reviewCount type="int">1</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Erdbeerschokot&#246;rtchen</name>
+	</author>
+	<datePublished type="str">2013-08-29</datePublished>
+	<description type="str">Scarlett Dream - alkoholfreier Cocktail. Eine Bewertung und f&#252;r sehr lecker befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">scarlett_dream.jpg</image>
+	<keywords type="list">
+		<item type="str">Cocktail</item>
+		<item type="str">Getr&#228;nk</item>
+		<item type="str">alkoholfrei</item>
+	</keywords>
+	<name type="str">Scarlett Dream</name>
+	<prepTime type="str">P0DT0H10M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Alkoholfrei</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">2 TL Limettensaft</item>
+		<item type="str">1 TL Zucker</item>
+		<item type="str">1 cl Sirup , Himbeer-</item>
+		<item type="str">10 cl Sodawasser</item>
+		<item type="str">einige Eisw&#252;rfel</item>
+		<item type="str">etwas Sirup , Himbeersirup, und Zucker f&#252;r den Crustarand</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">F&#252;r den Crustarand den Rand des Glases zun&#228;chst in Himbeersirup, dann in Zucker tauchen. Limettensaft mit Zucker und Himbeersirup verr&#252;hren. Die Mischung mit einigen Eisw&#252;rfeln und dem Soda in einen Shaker geben und kr&#228;ftig sch&#252;tteln. Vorsichtig in das Glas mit dem Crustarand gie&#223;en.</recipeInstructions>
+	<recipeYield type="str">1 Portion(en)</recipeYield>
+	<totalTime type="str">P0DT0H10M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.4</ratingValue>
+		<reviewCount type="int">3</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Amunia</name>
+	</author>
+	<datePublished type="str">2007-01-07</datePublished>
+	<description type="str">Karamellisierter Milchreis mit Banane. &#220;ber 3 Bewertungen und f&#252;r vorz&#252;glich befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps! Jetzt entdecken und ausprobieren!</description>
+	<image type="str">karamellisierter_milchreis_mit_banane.jpg</image>
+	<keywords type="list">
+		<item type="str">S&#252;&#223;speise</item>
+		<item type="str">Dessert</item>
+		<item type="str">Kinder</item>
+		<item type="str">Frucht</item>
+		<item type="str">gekocht</item>
+	</keywords>
+	<name type="str">Karamellisierter Milchreis mit Banane</name>
+	<prepTime type="str">P0DT0H10M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Kochen</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">500 ml Milch</item>
+		<item type="str">1  Vanilleschote(n) , l&#228;ngs halbiert</item>
+		<item type="str">2 EL Zucker</item>
+		<item type="str">&#189;  Orange(n) , fein geriebene Schale</item>
+		<item type="str">125 g Milchreis</item>
+		<item type="str">2  Banane(n)</item>
+		<item type="str">1 EL Rum , braun</item>
+		<item type="str">5 EL Zucker , braun</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">In einem kleinen Topf Milch, Vanilleschote, Zucker und Orangenschale aufkochen. Reis unterr&#252;hren und zugedeckt bei milder Hitze 30 Minuten quellen lassen, dabei &#246;fters umr&#252;hren. Reis in Sch&#228;lchen f&#252;llen und glatt streichen. Lauwarm abk&#252;hlen lassen. 
+
+Die Bananen sch&#228;len und erst l&#228;ngs, dann quer halbieren. Im Rum wenden und je 2 St&#252;ck auf den Reis legen und eindr&#252;cken. Mit dem braunen Zucker bestreuen. Mit dem Bunsenbrenner gratinieren, bis der Zucker schmilzt und karamellisiert. Kurz abk&#252;hlen lassen und servieren.</recipeInstructions>
+	<recipeYield type="str">2 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">badegast1</name>
+			</author>
+			<datePublished type="str">2019-02-26</datePublished>
+			<reviewBody type="str">Hallo,
+ich habe den Rum wegen der Kinder weggelassen. Sehr lecker
+Vielen Dank f&#252;rs Rezept
+LG
+Badegast</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">KochMaus667</name>
+			</author>
+			<datePublished type="str">2013-01-08</datePublished>
+			<reviewBody type="str">Hallo Amunia,
+
+dieser Milchreis ist wirklich lecker und einfach zu machen. Durch die Bananen wird er auch noch aufgepept!
+
+lg Jutta</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P1DT6H10M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.8</ratingValue>
+		<reviewCount type="int">3</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Backm&#228;uslein</name>
+	</author>
+	<cookTime type="str">P0DT0H30M</cookTime>
+	<datePublished type="str">2012-09-21</datePublished>
+	<description type="str">Vatertags-K&#252;sschen-Herz - auch f&#252;r Muttertag oder Geburtstag. &#220;ber 3 Bewertungen und f&#252;r super befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">vatertags-k&#252;sschen-herz.jpg</image>
+	<keywords type="list">
+		<item type="str">Backen</item>
+		<item type="str">Torte</item>
+	</keywords>
+	<name type="str">Vatertags-K&#252;sschen-Herz</name>
+	<prepTime type="str">P0DT0H30M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Torten</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">75 g Schokolade</item>
+		<item type="str">4  Ei(er)</item>
+		<item type="str">75 g Zucker</item>
+		<item type="str">1 Pck. Vanillezucker</item>
+		<item type="str">13 g Mehl</item>
+		<item type="str">&#189; TL, gestr. Backpulver</item>
+		<item type="str">75 g Haseln&#252;sse , gemahlen</item>
+		<item type="str">2 Becher Sahne</item>
+		<item type="str">2 Pck. Sahnesteif</item>
+		<item type="str">2 Pck. Vanillezucker</item>
+		<item type="str">16 St&#252;ck(e) Konfekt (Ferrero K&#252;sschen)</item>
+		<item type="str"> Fett f&#252;r die Form</item>
+		<item type="str"> Semmelbr&#246;sel f&#252;r die Form</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Die Schokolade in kleine St&#252;cke brechen und in der Mikrowelle bei 360 Watt ca. 2 Min. schmelzen lassen. Die Eier, den Zucker und Vanillezucker mit dem Handr&#252;hrger&#228;t 8 Minuten (!) schaumig schlagen. Mehl und Backpulver mischen, mit der Schokolade mit einem Schneebesen vorsichtig unterheben. 
+
+In eine gefettete und mit Semmelbr&#246;seln ausgestreute Herzform f&#252;llen und bei 175&#176;C (Hei&#223;luft) ca. 30 Min. - je nach Ofen und Form - backen. Nach dem Erkalten aus der Form l&#246;sen. 
+
+Von den K&#252;sschen ca. 5 St&#252;ck zum Verzieren zur Seite legen. Die restlichen im Mixer zerkleinern. Die Sahne mit dem Vanillezucker und Sahnesteif steif schlagen, ca. 3 EL in eine Spritzt&#252;lle f&#252;llen und die gehackten K&#252;sschen unter die restliche Sahne heben. 
+
+Die zur&#252;ckgelassenen K&#252;sschen halbieren, damit und mit der &#252;brigen Sahne die Torte verzieren.</recipeInstructions>
+	<recipeYield type="str">1 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Mausez&#252;ngchen</name>
+			</author>
+			<datePublished type="str">2013-05-08</datePublished>
+			<reviewBody type="str">Mhh, das h&#246;rt sich lecker an, aber stimmt die Angabe mit 13 g Mehl??
+
+LG Silke</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Backm&#228;uslein</name>
+			</author>
+			<datePublished type="str">2013-05-07</datePublished>
+			<reviewBody type="str">Hallo Triolenmama!
+Sch&#246;n, dass Dir mein Rezept gefallen hat und danke f&#252;r die gute Bewertung!
+Sch&#246;nen Vater- und Muttertag!
+LG, Backm&#228;uslein</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Triolenmama</name>
+			</author>
+			<datePublished type="str">2013-05-06</datePublished>
+			<reviewBody type="str">Super simple die Herstellung und hat gut geklappt.
+Jetzt kann der vatertag kommen, danke f&#252;rs Rezept :) 
+</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT1H0M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.43</ratingValue>
+		<reviewCount type="int">5</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Tupfenmonster</name>
+	</author>
+	<cookTime type="str">P0DT0H25M</cookTime>
+	<datePublished type="str">2013-09-17</datePublished>
+	<description type="str">Red Velvet Cupcakes mit Zimt-Buttercreme - Red Hot Velvet Cupcakes with Cinnamon Buttercream von Oprah - &#252;bersetzt ins Deutsche. &#220;ber 5 Bewertungen und f&#252;r raffiniert befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">red_velvet_cupcakes_mit_zimt-buttercreme.jpg</image>
+	<keywords type="list">
+		<item type="str">Backen</item>
+		<item type="str">Kuchen</item>
+	</keywords>
+	<name type="str">Red Velvet Cupcakes mit Zimt-Buttercreme</name>
+	<prepTime type="str">P0DT1H0M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Backen</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">20 g Kakaopulver , unges&#252;&#223;t</item>
+		<item type="str">2 EL Lebensmittelfarbe , rote</item>
+		<item type="str">60 ml Wasser , kochendes</item>
+		<item type="str">85 g Butter</item>
+		<item type="str">30 g Margarine</item>
+		<item type="str">375 g Zucker</item>
+		<item type="str">3  Ei(er) ,  Gr&#246;&#223;e L</item>
+		<item type="str">240 ml Buttermilch</item>
+		<item type="str">1 TL Vanille - Essenz</item>
+		<item type="str">400 g Mehl vermischt mit Speisest&#228;rke (5 EL Speisest&#228;rke mit Mehl bis 400g auff&#252;llen)</item>
+		<item type="str">1 TL Salz</item>
+		<item type="str">1 EL Apfelessig</item>
+		<item type="str">1 TL Natron</item>
+		<item type="str">340 g Zucker</item>
+		<item type="str">40 g Mehl</item>
+		<item type="str">360 ml Milch</item>
+		<item type="str">60 ml Schlagsahne , (40% Fettanteil)</item>
+		<item type="str">340 g Butter , weich, in St&#252;cke geschnitten</item>
+		<item type="str">1 TL Vanille - Essenz</item>
+		<item type="str">1 TL Zimtpulver</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Ofen auf 160&#176;C (Ober- und Unterhitze) vorheizen. 36 Papiermuffinf&#246;rmchen auf Formen verteilen.
+
+F&#252;r die Cupcakes Kakao, Lebensmittelfarbe und kochendes Wasser verr&#252;hren und zum Abk&#252;hlen zur Seite stellen. Butter und Margarine zu einer gleichm&#228;&#223;igen Masse verr&#252;hren. Anschlie&#223;end Zucker hinzugeben und f&#252;r ca. 5 Minuten schlagen, bis sich eine lockere und helle Masse gebildet hat. Nach und nach die Eier einzeln zugeben und immer ordentlich r&#252;hren.
+Buttermilch und Vanilleessenz zur abgek&#252;hlten Kakaomasse geben. Mehl mit Speisest&#228;rke und Salz vermischen. Abwechselnd Kakaomasse und Mehlmischung zur Eiermischung dazugeben und r&#252;hren bis alles gut vermischt ist. In einer kleinen Sch&#252;ssel Apfelessig und Natron vermischen und r&#252;hren, bis sich das Natron aufgel&#246;st hat. Anschlie&#223;end zum Teig geben und r&#252;hren. Die F&#246;rmchen zu 2/3 mit Teig f&#252;llen und 20-25 Minuten backen. St&#228;bchenprobe nicht vergessen! Anschlie&#223;end die F&#246;rmchen aus der Form nehmen und auf einem K&#252;hlgitter ausk&#252;hlen lassen.
+
+F&#252;r die Buttercreme in einem Kochtopf Zucker und Mehl vermischen. Milch und Schlagsahne dazugeben und bei mittlerer Hitze und unter gelegentlichem R&#252;hren aufkochen lassen bis die Mischung eingedickt ist. Dies dauert etwa 12 Minuten. 
+Anschlie&#223;end die Mischung in einer R&#252;hrsch&#252;ssel etwa 5 Minuten bei mittlerer Geschwindigkeit r&#252;hren bis sie abgek&#252;hlt ist. Jetzt die Geschwindigkeit reduzieren und die Butter hinzugeben. R&#252;hren bis sich alles gut vermischt hat. Danach etwa 3 Minuten auf h&#246;chster Stufe schlagen bis die Mischung locker und fast wei&#223; ist. Vanilleessenz und Zimt unterr&#252;hren. Wenn das Frosting zu weich ist, die Sch&#252;ssel in den K&#252;hlschrank stellen und anschlie&#223;end erneut aufschlagen. Ist das Frosting zu hart, die Sch&#252;ssel &#252;ber eine Schale mit kochendem Wasser stellen. Frosting auf die Cupcakes geben und nach Belieben verzieren.</recipeInstructions>
+	<recipeYield type="str">36 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Tupfenmonster</name>
+			</author>
+			<datePublished type="str">2017-04-13</datePublished>
+			<reviewBody type="str">Entschuldigung, ich habe gerade erst die Meldung &#252;ber den Kommentar gesehen.
+Achte beim n&#228;chsten Mal darauf, dass die Butter zimmerwarm ist und nicht direkt aus dem K&#252;hlschrank kommt. 
+
+Wenn das n&#228;chste Mal deine Buttercreme gerinnt/ausflockt, kannst du mal versuchen es einfach in eine Sch&#252;ssel zu geben und in der Mikrowelle oder &#252;ber dem Wasserbad KURZ erhitzen und wieder glatt r&#252;hren. In den meisten F&#228;llen hilft das!
+Passiert mir aber leider auch regelm&#228;&#223;ig bei Buttercreme, obwohl ich darauf achte, dass alle Zutaten etwa zimmerwarm sind...</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Sczeppi</name>
+			</author>
+			<datePublished type="str">2016-12-06</datePublished>
+			<reviewBody type="str">Leider ist die Creme bei mir &#252;berhaupt nicht gelungen. Sie ist ausgeflockt... Schade. Habe dann eine andere Creme verwendet  </reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Babsili8</name>
+			</author>
+			<datePublished type="str">2013-11-29</datePublished>
+			<reviewBody type="str">Die Creme ist sehr lecker! Allerdings sind meine Cupcakes nicht so rot geworden wie ich dachte, kann aber auch daran liegen, dass ich es mit dem Kakao etwas zu gut gemeint habe.</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT1H25M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.33</ratingValue>
+		<reviewCount type="int">1</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Nana13693</name>
+	</author>
+	<datePublished type="str">2013-10-31</datePublished>
+	<description type="str">Erdbeer-Yoguretten-Torte &#224; la Nathalie - sehr locker, leicht und fruchtig, ergibt 12 St&#252;cke. Eine Bewertung und f&#252;r raffiniert befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">erdbeer-yoguretten-torte_&#224;_la_nathalie.jpg</image>
+	<keywords type="list">
+		<item type="str">Backen</item>
+		<item type="str">Sommer</item>
+		<item type="str">Vegetarisch</item>
+		<item type="str">Schnell</item>
+		<item type="str">einfach</item>
+		<item type="str">Fr&#252;hling</item>
+		<item type="str">Torte</item>
+		<item type="str">Gluten</item>
+		<item type="str">Lactose</item>
+	</keywords>
+	<name type="str">Erdbeer-Yoguretten-Torte &#224; la Nathalie</name>
+	<nutrition type="dict">
+		<key name="@type" type="str">NutritionInformation</key>
+		<calories type="str">4406 kcal</calories>
+		<servingSize type="str">1</servingSize>
+	</nutrition>
+	<prepTime type="str">P0DT0H30M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Schnell und einfach</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">1  Tortenboden , (Schokoladen-, 3-teilig)</item>
+		<item type="str">3 Becher Schlagsahne</item>
+		<item type="str">2 Pck. Sahnesteif</item>
+		<item type="str">500 g Erdbeeren</item>
+		<item type="str">1 Tafel Schokolade , (Yogurette)</item>
+		<item type="str">1 Pck. Schokoladenraspel , wei&#223;</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Die Erdbeeren putzen, waschen und in kleine W&#252;rfel schneiden. Ein paar Erdbeeren zur Verzierung behalten. Eine Tafel Yogurette klein hacken. Sahne mit Sahnesteif steif schlagen. Die Erdbeeren und die gehackte Yogurette vorsichtig unterheben. 
+
+Dann etwas von der Masse auf dem ersten Tortenboden verstreichen. Danach den zweiten Tortenboden darauf legen und noch einmal etwas Masse darauf verstreichen, dieses bei dem 3. Boden nochmals wiederholen.
+
+Den Rest der Masse an der Seite sch&#246;n glatt verstreichen. Mit Erdbeeren und Schokoladenraspeln verzieren.
+
+Etwa 1 Stunde in den K&#252;hlschrank stellen.</recipeInstructions>
+	<recipeYield type="str">1 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">catty74</name>
+			</author>
+			<datePublished type="str">2015-11-06</datePublished>
+			<reviewBody type="str">Ich bin nicht so die Backfee, deswegen suchte ich ein schnelles,einfaches Rezept und ich konnte damit bei unserem Kaffeebesuch m&#228;chtig Punkten...daf&#252;r gibt es von mir5*****</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT1H30M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.0</ratingValue>
+		<reviewCount type="int">1</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">dodith</name>
+	</author>
+	<cookTime type="str">P0DT0H30M</cookTime>
+	<datePublished type="str">2014-04-24</datePublished>
+	<description type="str">Zucchini mit Reis und Mais - Zucchiniverwertung, f&#252;r Kinder. Eine Bewertung und f&#252;r ausgezeichnet befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">zucchini_mit_reis_und_mais.jpg</image>
+	<keywords type="list">
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Hauptspeise</item>
+		<item type="str">Vegetarisch</item>
+		<item type="str">Reis</item>
+		<item type="str">Schmoren</item>
+		<item type="str">Getreide</item>
+	</keywords>
+	<name type="str">Zucchini mit Reis und Mais</name>
+	<prepTime type="str">P0DT0H20M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Schmoren</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">3 m.-gro&#223;e Zwiebel(n) , gew&#252;rfelt</item>
+		<item type="str">1 kg Zucchini</item>
+		<item type="str">etwas Rosmarin , getrocknet, oder 2-3 Stiele frisch</item>
+		<item type="str">1 Dose Maisk&#246;rner</item>
+		<item type="str">1 &#189; Tasse Reis</item>
+		<item type="str">3 Tasse/n Wasser</item>
+		<item type="str">200 g Schmand</item>
+		<item type="str"> Salz</item>
+		<item type="str"> Pfeffer , frisch gemahlen</item>
+		<item type="str">etwas &#214;l , zum Anbraten</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Die Zucchini waschen, trocknen und l&#228;ngs halbieren. Die H&#228;lften quer in Scheiben schneiden. 
+
+&#214;l erhitzen, Zwiebeln darin glasig d&#252;nsten. Die Zucchini und Rosmarin zugeben, zugedeckt bei kleiner Hitze schmoren lassen, bis die Zucchini fast weich sind. 1 Dose Mais samt Fl&#252;ssigkeit unterr&#252;hren, salzen und pfeffern und noch etwas schmoren lassen.
+
+W&#228;hrend das Gem&#252;se gart, den Reis mit knapp der doppelten Menge Wasser in leicht gesalzenem Wasser aufkochen, bei kleinster Hitze ziehen lassen, bis die Fl&#252;ssigkeit aufgenommen ist.
+
+Den Reis und den Schmand zum Gem&#252;se geben, gut verr&#252;hren und zusammen erhitzen. Mit Salz und Pfeffer abschmecken.
+
+Je nach Appetit reicht die Menge f&#252;r mindestens 4 Personen.</recipeInstructions>
+	<recipeYield type="str">4 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">k&#252;chen_zauber</name>
+			</author>
+			<datePublished type="str">2017-11-13</datePublished>
+			<reviewBody type="str">Da es f&#252;r das gro&#223;e "Kind" war, hab ich noch ein wenig Fleisch dazu gegeben.
+War sehr lecker und will er wieder mal haben :-)
+Den Reis habe ich wegen der Farbe mit Kurkuma gekocht.
+Foto folgt. LG</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H50M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">4.27</ratingValue>
+		<reviewCount type="int">39</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">miri-kiri</name>
+	</author>
+	<datePublished type="str">2008-11-07</datePublished>
+	<description type="str">Hefezopf - sehr locker - ohne Ei im Teig. &#220;ber 39 Bewertungen und f&#252;r schmackhaft befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">hefezopf.jpg</image>
+	<keywords type="list">
+		<item type="str">Backen</item>
+		<item type="str">Europa</item>
+		<item type="str">Vegetarisch</item>
+		<item type="str">Deutschland</item>
+		<item type="str">Kuchen</item>
+		<item type="str">Gluten</item>
+		<item type="str">Lactose</item>
+	</keywords>
+	<name type="str">Hefezopf</name>
+	<nutrition type="dict">
+		<key name="@type" type="str">NutritionInformation</key>
+		<calories type="str">3130 kcal</calories>
+		<servingSize type="str">1</servingSize>
+	</nutrition>
+	<prepTime type="str">P0DT0H15M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Kuchen</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">500 g Weizenmehl</item>
+		<item type="str">1 Pck. Trockenhefe</item>
+		<item type="str">50 g Zucker</item>
+		<item type="str">1 Pck. Vanillezucker</item>
+		<item type="str">1 Prise(n) Salz</item>
+		<item type="str">150 g Cr&#232;me fra&#238;che</item>
+		<item type="str">150 ml Milch , lauwarme</item>
+		<item type="str">75 g Butter , zerlassene, abgek&#252;hlte</item>
+		<item type="str">1  Eigelb (f&#252;r den Glanz)</item>
+		<item type="str">etwas Hagelzucker (zum Bestreuen)</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Alle Zutaten (au&#223;er Eigelb und Hagelzucker) nacheinander in eine R&#252;hrsch&#252;ssel geben und vermischen. Mit den Knethaken zu einem Teig verarbeiten. Den Teig anschlie&#223;end mit einem sauberen K&#252;chenhandtuch zudecken und an einem warmen Ort etwa 30 Minuten gehen lassen, bis sich sein Volumen deutlich vergr&#246;&#223;ert hat.
+
+Dann den Teig in drei gleich gro&#223;e St&#252;cke teilen und diese jeweils zu einer langen Rolle formen. Die Rollen zu einem Zopf flechten. 
+
+Damit der Hefezopf einen sch&#246;nen Glanz bekommt, mit Eigelb bestreichen (wer kein Ei will, l&#228;sst es einfach weg) und zuletzt f&#252;r den guten Geschmack etwas Hagelzucker auf den Kuchen streuen.
+
+Den Hefezopf bei 175 Grad etwa 35 Minuten backen.
+
+Bei uns wird der Hefezopf traditionell an Ostern zum Fr&#252;hst&#252;ck mit Butter bestrichen gegessen.</recipeInstructions>
+	<recipeYield type="str">1 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">cremona</name>
+			</author>
+			<datePublished type="str">2008-11-07</datePublished>
+			<reviewBody type="str">Hallo miri-kiri,
+noch eine Frage, bevor ich den Hefezopf nach backe.
+Gibt es einen besonderen Grund, warum Du das Brot mit Eigelb bestreichst ?
+Ich habe bisher immer Eiwei&#223; genommen und die Kruste hat ebenfalls gegl&#228;nzt ?
+VG, Cremona
+</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">miri-kiri</name>
+			</author>
+			<datePublished type="str">2008-11-07</datePublished>
+			<reviewBody type="str">Hallo Cremona,
+
+ich nehme deshalb Eigelb zum Bestreichen, weil der Kuchen damit so richtig sch&#246;n goldgelb gl&#228;nzt. Mit Eiwei&#223; habe ich es noch nie probiert, kann dir also nicht sagen, was da anders wird. Ich lade aber gleich noch ein Foto hoch, dann kannst du sehen, was das Eigelb bewirkt.
+
+Nur musst du in jedem Fall noch nachstreichen, weil der Zopf im Ofen noch weiter aufgeht.
+
+LG, miri-kiri</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">cremona</name>
+			</author>
+			<datePublished type="str">2008-11-07</datePublished>
+			<reviewBody type="str">Ich lass das Brot oder den Kuchen im Ofen erst aufgehen und streiche dann erst.
+VG, Cremona</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H15M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">4.0</ratingValue>
+		<reviewCount type="int">3</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Wurstler1</name>
+	</author>
+	<datePublished type="str">2009-09-09</datePublished>
+	<description type="str">Falsches Eisbein im Sterildarm. &#220;ber 3 Bewertungen und f&#252;r sehr lecker befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps! Jetzt entdecken und ausprobieren!</description>
+	<image type="str">falsches_eisbein_im_sterildarm.jpg</image>
+	<keywords type="list">
+		<item type="str">Wursten</item>
+	</keywords>
+	<name type="str">Falsches Eisbein im Sterildarm</name>
+	<prepTime type="str">P0DT1H0M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Wursten</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">1 kg Schweinenacken , gut durchwachsen</item>
+		<item type="str">60 g P&#246;kelsalz</item>
+		<item type="str">500 g Wasser</item>
+		<item type="str">10  Wacholderbeere(n) , gequetscht</item>
+		<item type="str">1  Lorbeerblatt</item>
+		<item type="str">2 g Muskat</item>
+		<item type="str">3 g Pfeffer , wei&#223;er</item>
+		<item type="str">1 &#189; g Knoblauchpulver</item>
+		<item type="str">1 &#189; g Koriander , gemahlen</item>
+		<item type="str">150 g Aspik - Pulver (130 Bloom oder 120 g mit 200 Bloom)</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Zun&#228;chst setzt man aus dem P&#246;kelsalz und dem Wasser eine Lake an, zu der man die 10 gequetschten Wacholderbeeren und das Lorbeerblatt gibt. Man bringt sie zum Kochen k&#246;chelt sie 10 Minuten lang und l&#228;sst sie dann abk&#252;hlen.
+
+Der Schweinenacken wird in gulaschgro&#223;e St&#252;cke geschnitten, in eine Gefriert&#252;te gestopft, mit der abgek&#252;hlten Lake &#252;bergossen und so 24 Stunden gep&#246;kelt, nicht l&#228;nger. 
+
+Dann werden die Gew&#252;rze mit dem Aspikpulver gut vermischt. Jetzt sch&#252;ttet man die Lake ab, entfernt die Wacholderbeeren und das Lorbeerblatt, gibt das nasse Fleisch in eine Sch&#252;ssel und gibt die Zutaten mit dem Aspikpulver gleichm&#228;&#223;ig dar&#252;ber und mischt es. Da das Aspikpulver schnell geliert, sollte man sich beeilen und das Ganze in einen 90er Sterildarm stopfen. Es ist darauf zu achten, dass die Fleischw&#252;rfel eng gepresst eingef&#252;llt sind. Der Sterildarm wird eng abgebunden aber so, dass man den Knoten eventuell nach dem Br&#252;hen nochmals l&#246;sen kann. Eine Wasserzugabe von h&#246;chstens 50 g/kg Fleisch ist gen&#252;gend, da das Fleisch Eigensaft zieht. Jetzt wird das Ganze 2 Stunden bei 85&#176; gebr&#252;ht. Danach k&#252;hlt man das falsche Eisbein kurz in kaltem Wasser, wenn Lufteinschl&#252;sse vorhanden sind, &#246;ffnet man den Knoten, dr&#252;ckt die Luft heraus und bindet den Darm erneut eng ab.
+
+Danach kann man den Kunstdarm mit einem Brettchen und einem Gewicht beschweren und erkalten lassen. Von Vorteil ist, wenn man den Darm nach 4-5 Stunden umdreht da sich das Fett oben absetzt und ihn ein wenig massiert.
+
+Man kann das Ganze portionieren und einfrieren - es wird so fest, dass man es auch aufschneiden kann wie Aufschnitt. Man kann es auch in Dosen einkochen - da schneidet man rohe Schweineschwarte passend, die wird dann um die Dosenwandung gelegt, die gep&#246;kelten Fleischst&#252;cke fest hineingedr&#252;ckt und 2-3 Essl&#246;ffel Wasser dazugegeben. Die Dosen werden 2 Stunden gekocht.</recipeInstructions>
+	<recipeYield type="str">1 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">rim</name>
+			</author>
+			<datePublished type="str">2009-10-30</datePublished>
+			<reviewBody type="str">Hallo,
+kann man dieses Rezept auch mit anderen Fleischsorten machen?
+Danke im vorraus
+
+
+
+
+
+Gr&#252;&#223;e rim aus Tunesien</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Wurstler1</name>
+			</author>
+			<datePublished type="str">2009-10-30</datePublished>
+			<reviewBody type="str">Hallo  Dreamer31120
+
+Du kannst alles auch in Gl&#228;ser f&#252;llen - Schwarten um die Glaswandung muss nicht sein es ist mehr f&#252;r
+die Optik. Nur sollten die Gl&#228;ser zylindrisch sein damit du das Eisbein gut rausbekommst. Die Einkochzeit
+ist wie bei Dosen 2 Std und beginnt erst wenn das Wasser kocht.
+
+Gru&#223;
+Werner</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">Dreamer31120</name>
+			</author>
+			<datePublished type="str">2009-10-29</datePublished>
+			<reviewBody type="str">Hallo Wurstler1,
+
+geht das ganze auch in Gl&#228;sern und mu&#223; ich genauso vorgehen wie bei den Dosen? Ich meine das mit der Schwarte am Rand?
+
+Und &#228;ndert sich evt. die Einkochdauer?
+
+F&#252;r eine schnelle Antwort w&#228;re ich dankbar, aufgrund Ihrer Rezepte bin ich auf den Geschmack/ auf ein neues Hobby gekommen
+
+Dreamer31120</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT1H0M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.95</ratingValue>
+		<reviewCount type="int">39</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">k&#252;chenelse</name>
+	</author>
+	<datePublished type="str">2005-01-08</datePublished>
+	<description type="str">Flammkuchen mit Quark - fett&#228;rmere Variante. &#220;ber 39 Bewertungen und f&#252;r sehr gut befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">flammkuchen_mit_quark.jpg</image>
+	<keywords type="list">
+		<item type="str">Fleisch</item>
+		<item type="str">Hauptspeise</item>
+		<item type="str">Backen</item>
+		<item type="str">Europa</item>
+		<item type="str">fettarm</item>
+		<item type="str">Deutschland</item>
+		<item type="str">Pizza</item>
+		<item type="str">Tarte</item>
+		<item type="str">Gluten</item>
+		<item type="str">Lactose</item>
+	</keywords>
+	<name type="str">Flammkuchen mit Quark</name>
+	<nutrition type="dict">
+		<key name="@type" type="str">NutritionInformation</key>
+		<calories type="str">709 kcal</calories>
+		<servingSize type="str">1</servingSize>
+	</nutrition>
+	<prepTime type="str">P0DT0H15M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Tarte/Quiche</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">1 Pkt. Hefe (Trockenhefe)</item>
+		<item type="str">350 g Mehl , (Weizenmehl)</item>
+		<item type="str">3 EL &#214;l , (z.B. mildes Oliven&#246;l)</item>
+		<item type="str">250 ml Wasser , lauwarmes</item>
+		<item type="str">1 TL Zucker</item>
+		<item type="str">2 TL Salz</item>
+		<item type="str">150 g saure Sahne</item>
+		<item type="str">250 g Quark (Magerquark)</item>
+		<item type="str">150 g Speck , (gew&#252;rfelt)</item>
+		<item type="str">2  Zwiebel(n) , (in Ringe geschnitten)</item>
+		<item type="str"> Salz und Pfeffer</item>
+		<item type="str"> Muskat</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Die Hefe mit dem Mehl mischen, &#214;l, Wasser, Zucker und Salz zugeben und zu einem glatten Teig verkneten. An einem warmen Ort zugedeckt ca. 30 min. gehen lassen.
+Sahne und Quark verr&#252;hren und mit Salz, Pfeffer und Muskatnuss w&#252;rzen.
+Nach dem Gehen den Teig nochmals durchkneten und auf einem mit Backpapier ausgelegten Backblech so d&#252;nn wie m&#246;glich ausrollen.
+Den Teig mit der Quarkmasse d&#252;nn bestreichen und die Zwiebelringe und Speckw&#252;rfel darauf verteilen.
+Im vorgeheizten Ofen bei 250&#176;C ca. 15 min backen. (Je nach Ofen k&#246;nnen es auch 20 min sein.)
+</recipeInstructions>
+	<recipeYield type="str">4 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">rolodex</name>
+			</author>
+			<datePublished type="str">2005-01-15</datePublished>
+			<reviewBody type="str">Ich habe gestern abend das Rezept ausprobiert. Der Teig wurde super locker und weich. Das ganze Blech ist alle geworden. Hat echt lecker geschmeckt und das Rezept ist bereits ausgedruckt. </reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">k&#252;chenelse</name>
+			</author>
+			<datePublished type="str">2005-01-12</datePublished>
+			<reviewBody type="str">Hallo,
+
+k&#252;chenharry (da hatten wir ja einen &#228;hnlichen Geistesblitz beim &#220;berlegen des Nicks, wie?;-)).
+Das typische Speckaroma geh&#246;rt aber unbedingt zu Flammkuchen.
+Ich mu&#223; gestehen, dass ich meistens den fertig gew&#252;rfelten von der gro&#223;en Discountkette mit "A" nehme. Den gibt es auch in extra mager.
+
+Gru&#223;, k&#252;chenelse</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">k&#252;chenharry</name>
+			</author>
+			<datePublished type="str">2005-01-12</datePublished>
+			<reviewBody type="str">Hallo,
+
+danke f&#252;r das Rezept! Noch fett&#228;rmer wird es, wenn man den Speck wegl&#228;sst.   ;-)
+
+LG
+K&#252;chenharry
+ </reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H15M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.6</ratingValue>
+		<reviewCount type="int">3</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">versatil</name>
+	</author>
+	<datePublished type="str">2006-02-20</datePublished>
+	<description type="str">Kartoffelauflauf. &#220;ber 3 Bewertungen und f&#252;r schmackhaft befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps! Jetzt entdecken und ausprobieren!</description>
+	<image type="str">kartoffelauflauf.jpg</image>
+	<keywords type="list">
+		<item type="str">Fleisch</item>
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Hauptspeise</item>
+		<item type="str">Auflauf</item>
+		<item type="str">raffiniert oder preiswert</item>
+		<item type="str">Kartoffeln</item>
+		<item type="str">Lactose</item>
+	</keywords>
+	<name type="str">Kartoffelauflauf</name>
+	<nutrition type="dict">
+		<key name="@type" type="str">NutritionInformation</key>
+		<calories type="str">622 kcal</calories>
+		<servingSize type="str">1</servingSize>
+	</nutrition>
+	<prepTime type="str">P0DT0H30M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Auflauf</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">1 kg Kartoffel(n) , mehligkochend</item>
+		<item type="str">400 g Tomate(n)</item>
+		<item type="str">1  Zwiebel(n)</item>
+		<item type="str">6 m.-gro&#223;e Ei(er)</item>
+		<item type="str">&#8539; Liter Sahne</item>
+		<item type="str">&#8539; Liter Milch</item>
+		<item type="str">150 g Speck , ger&#228;uchert</item>
+		<item type="str">1 EL Butter</item>
+		<item type="str"> Salz</item>
+		<item type="str"> Pfeffer</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Die gesch&#228;lten und gewaschenen Kartoffel in m&#246;glichst feine Scheiben schneiden. Eine passende Auflaufform mit der Butter auspinseln und etwa die H&#228;lfte der Kartoffelscheiben darauf verteilen. Die Tomaten in Scheiben, die Zwiebel in W&#252;rfel schneiden und auf der Kartoffelschicht verteilen. Nun die restlichen Kartoffelscheiben dar&#252;ber verteilen. Die Eier mit Milch und Sahne verr&#252;hren und mit Salz und Pfeffer nach Geschmack verr&#252;hren. &#220;ber die eingeschichteten Zutaten verteilen. Den Speck in d&#252;nne Scheiben schneiden und das Gericht damit bedecken. 
+Bei ca. 180&#176; - 200&#176; Grad etwa 80 Min. im Ofen backen.</recipeInstructions>
+	<recipeYield type="str">4 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">versatil</name>
+			</author>
+			<datePublished type="str">2009-03-07</datePublished>
+			<reviewBody type="str">Hi J&#246;rg,
+danke f&#252;r den netten Kommentar. Die Zwiebeln h&#228;tte ICH einfach zuletzt auf die Kartoffeln gestreut. Im Mixer werden sie durch die hohe Drehgeschwindigkeit und die Messer so zermust, das sie Geschmackstoffe freisetzen, die ich nicht unbedingt haben will. Bei uns scheiden sich die Geister eher an K&#252;mmel und Muskat - mag meine Holde leider auch nicht wirklich.
+LG J&#252;rgen</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">midgard2kopf</name>
+			</author>
+			<datePublished type="str">2009-02-22</datePublished>
+			<reviewBody type="str">Hallo versatil,
+
+das ist eine nette, kleine Sache, dieser Auflauf. Uns hat er sehr gut geschmeckt. 
+Die Zwiebeln scheiden die Geister. Ich hatte sie vergessen und dann mit den Eiern in den Mixer gegeben. Thymian auf die Tomaten, K&#252;mmel auf die Kartoffeln. Herzblatt meinte: Einen sch&#246;nen Gru&#223; an Dich und ich d&#252;rfte es wieder backen.   
+So sind sie, unsere Maiden.
+
+HG
+J&#246;rg
+
+</reviewBody>
+		</item>
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">alot46</name>
+			</author>
+			<datePublished type="str">2006-03-24</datePublished>
+			<reviewBody type="str">Kleiner Verbesserungsvorschlag: Zwiebel in Scheiben schneiden, in Mehl wenden und kurz braten. Dann wie gehabt verwenden. Statt Speck verwende ich Mozzarella in Scheiben geschnitten. Den f&#252;ge ich aber erst die letzten 10 Minuten zu. 
+LG Otto</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H30M</totalTime>
+</all><all>
+	<key name="@context" type="str">http://schema.org</key>
+	<key name="@type" type="str">Recipe</key>
+	<aggregateRating type="dict">
+		<key name="@type" type="str">AggregateRating</key>
+		<bestRating type="int">5</bestRating>
+		<ratingValue type="float">3.0</ratingValue>
+		<reviewCount type="int">1</reviewCount>
+		<worstRating type="int">0</worstRating>
+	</aggregateRating>
+	<author type="dict">
+		<key name="@type" type="str">Person</key>
+		<name type="str">Jcstifler</name>
+	</author>
+	<cookTime type="str">P0DT0H20M</cookTime>
+	<datePublished type="str">2015-06-03</datePublished>
+	<description type="str">Tomatenso&#223;e f&#252;r Nudeln - mit Lecker-Garantie. Eine Bewertung und f&#252;r sehr lecker befunden. Mit &#9658; Portionsrechner &#9658; Kochbuch &#9658; Video-Tipps!</description>
+	<image type="str">tomatenso&#223;e_f&#252;r_nudeln.jpg</image>
+	<keywords type="list">
+		<item type="str">Gem&#252;se</item>
+		<item type="str">Vegetarisch</item>
+		<item type="str">Saucen</item>
+		<item type="str">Dips</item>
+		<item type="str">gekocht</item>
+	</keywords>
+	<name type="str">Tomatenso&#223;e f&#252;r Nudeln</name>
+	<prepTime type="str">P0DT0H15M</prepTime>
+	<publisher type="dict">
+		<key name="@type" type="str">Organization</key>
+		<name type="str">Chefkoch.de</name>
+	</publisher>
+	<recipeCategory type="str">Saucen</recipeCategory>
+	<recipeIngredient type="list">
+		<item type="str">2 Dose/n Tomate(n) , gesch&#228;lte</item>
+		<item type="str">1 gro&#223;e Zucchini</item>
+		<item type="str">4 gro&#223;e Tomate(n)</item>
+		<item type="str">&#189; Tube/n Tomatenmark</item>
+		<item type="str">1 St&#228;ngel Liebst&#246;ckel</item>
+		<item type="str">1 Pck. Sahne</item>
+		<item type="str">200 ml Wasser</item>
+		<item type="str"> &#214;l</item>
+		<item type="str">1 gro&#223;e Zwiebel(n)</item>
+	</recipeIngredient>
+	<recipeInstructions type="str">Zuerst Tomaten und Zucchini waschen und w&#252;rfeln, beides mit den gehackten Zwiebeln in &#214;l kurz anbraten. Dosentomaten dazugeben, den Deckel auf den Topf geben und alles kochen lassen. Nach 5 Min. Wasser und den klein gehackten Liebst&#246;ckel dazugeben. Alles nochmal kurz kochen lassen. Zum Schluss kommt die Sahne dazu und alles wird p&#252;riert. Dann 10 Min. auf mittlerer Stufe kochen.
+
+Die Tomatenso&#223;e eignet sich perfekt zum Einfrieren und schmeckt nach dem Auftauen und Erw&#228;rmen noch besser. Ich serviere sie klassisch mit Nudeln. Der Geschmack von frischem Liebst&#246;ckel passt toll zum Gem&#252;se.</recipeInstructions>
+	<recipeYield type="str">6 Portion(en)</recipeYield>
+	<reviews type="list">
+		<item type="dict">
+			<key name="@type" type="str">Review</key>
+			<author type="dict">
+				<key name="@type" type="str">Person</key>
+				<name type="str">movostu</name>
+			</author>
+			<datePublished type="str">2018-09-18</datePublished>
+			<reviewBody type="str">Nachdem ich die Sauce zum Schluss noch mit Salz und Pfeffer w&#252;rzte, war sie auch f&#252;r mich sehr lecker.
+
+Gru&#223; movostu</reviewBody>
+		</item>
+	</reviews>
+	<totalTime type="str">P0DT0H35M</totalTime>
+</all></all_recipes>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document id="1">
+  <content>
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+      </head>
+      <body>
+        <div>
+          <ul>
+            <li>
+            <a href="http://www.google.de/">http://www.google.de/Google</a>
+              <ul>
+                <li>
+                <a href="http://earth.google.de/">Google Earth</a>
+                </li>
+                <li>
+                <a href="http://picasa.google.de/intl/de/">Picasa</a>
+                </li>
+              </ul>
+            </li> 
+            <li><a href="http://www.heise.de/">Heise</a></li> 
+            <li><a href="http://www.yahoo.de/">Yahoo</a></li> 
+          </ul>
+        </div>
+      </body>
+    </html>
+  </content>
+</document>
